@@ -1,0 +1,1588 @@
+path,spoken_language,signed_language,start,end,words,glosses,priority
+sgg/A1.pose,de,sgg,0,0,знакомство,знакомство,0
+sgg/B1.pose,de,sgg,0,0,Человек.Родство.Семья,Человек.Родство.Семья,0
+sgg/C1.pose,de,sgg,0,0,дом и домашние вещи,дом и домашние вещи,0
+sgg/D1.pose,de,sgg,0,0,Эмоция. Чувства. Состояние,Эмоция. Чувства. Состояние,0
+sgg/E1.pose,de,sgg,0,0,посуда, продукты и еда,посуда, продукты и еда,0
+sgg/F1.pose,de,sgg,0,0,растения,растения,0
+sgg/G1.pose,de,sgg,0,0,одежда,одежда,0
+sgg/H1.pose,de,sgg,0,0,время,время,0
+sgg/I1.pose,de,sgg,0,0,природа,природа,0
+sgg/J1.pose,de,sgg,0,0,в мире животных,в мире животных,0
+sgg/K1.pose,de,sgg,0,0,спорт, отдых и развлечение,спорт, отдых и развлечение,0
+sgg/L1.pose,de,sgg,0,0,город и транстпорт,город и транстпорт,0
+sgg/M1.pose,de,sgg,0,0,школа и университет,школа и университет,0
+sgg/N1.pose,de,sgg,0,0,государтсво,государтсво,0
+sgg/O1.pose,de,sgg,0,0,страны и города,страны и города,0
+sgg/P1.pose,de,sgg,0,0,профессия и бизнес,профессия и бизнес,0
+sgg/Q1.pose,de,sgg,0,0,IT,IT,0
+sgg/R1.pose,de,sgg,0,0,МЕДИЦИНА,МЕДИЦИНА,0
+sgg/S1.pose,de,sgg,0,0,ГАЛАКТИКА,ГАЛАКТИКА,0
+sgg/T1.pose,de,sgg,0,0,Мода и красота,Мода и красота,0
+sgg/U1.pose,de,sgg,0,0,АЛФАВИТ,АЛФАВИТ,0
+sgg/V1.pose,de,sgg,0,0,шопинг,шопинг,0
+sgg/A2.pose,de,sgg,0,0,я,я,0
+sgg/B2.pose,de,sgg,0,0,человек,человек,0
+sgg/C2.pose,de,sgg,0,0,антенна,антенна,0
+sgg/D2.pose,de,sgg,0,0,Честность,Честность,0
+sgg/E2.pose,de,sgg,0,0,банка,банка,0
+sgg/F2.pose,de,sgg,0,0,апельсин,апельсин,0
+sgg/G2.pose,de,sgg,0,0,кофта,кофта,0
+sgg/H2.pose,de,sgg,0,0,время,время,0
+sgg/I2.pose,de,sgg,0,0,ветер,ветер,0
+sgg/J2.pose,de,sgg,0,0,бабочка,бабочка,0
+sgg/K2.pose,de,sgg,0,0,акробат,акробат,0
+sgg/L2.pose,de,sgg,0,0,автобус,автобус,0
+sgg/M2.pose,de,sgg,0,0,альбом,альбом,0
+sgg/N2.pose,de,sgg,0,0,казахстан,казахстан,0
+sgg/O2.pose,de,sgg,0,0,австралия,австралия,0
+sgg/P2.pose,de,sgg,0,0,аренда,аренда,0
+sgg/Q2.pose,de,sgg,0,0,ПАРОЛЬ,ПАРОЛЬ,0
+sgg/R2.pose,de,sgg,0,0,КРОВЬ,КРОВЬ,0
+sgg/S2.pose,de,sgg,0,0,ВЕНЕРА,ВЕНЕРА,0
+sgg/T2.pose,de,sgg,0,0,Шоу,Шоу,0
+sgg/U2.pose,de,sgg,0,0,А,А,0
+sgg/V2.pose,de,sgg,0,0,магазин,магазин,0
+sgg/A3.pose,de,sgg,0,0,ты,ты,0
+sgg/B3.pose,de,sgg,0,0,мальчик,мальчик,0
+sgg/C3.pose,de,sgg,0,0,балкон,балкон,0
+sgg/D3.pose,de,sgg,0,0,бороться,бороться,0
+sgg/E3.pose,de,sgg,0,0,бутылка,бутылка,0
+sgg/F3.pose,de,sgg,0,0,арбуз,арбуз,0
+sgg/G3.pose,de,sgg,0,0,сарафан,сарафан,0
+sgg/H3.pose,de,sgg,0,0,вчера,вчера,0
+sgg/I3.pose,de,sgg,0,0,вода,вода,0
+sgg/J3.pose,de,sgg,0,0,баран,баран,0
+sgg/K3.pose,de,sgg,0,0,баскетбол,баскетбол,0
+sgg/L3.pose,de,sgg,0,0,автомобиль,автомобиль,0
+sgg/M3.pose,de,sgg,0,0,артикуляция,артикуляция,0
+sgg/N3.pose,de,sgg,0,0,тараз,тараз,0
+sgg/O3.pose,de,sgg,0,0,австрия,австрия,0
+sgg/P3.pose,de,sgg,0,0,артист,артист,0
+sgg/Q3.pose,de,sgg,0,0,ЧИП,ЧИП,0
+sgg/R3.pose,de,sgg,0,0,ДАВЛЕНИЕ,ДАВЛЕНИЕ,0
+sgg/S3.pose,de,sgg,0,0,ЧУЖЕСТРАНЕЦ,ЧУЖЕСТРАНЕЦ,0
+sgg/T3.pose,de,sgg,0,0,красиво,красиво,0
+sgg/U3.pose,de,sgg,0,0,Ә,Ә,0
+sgg/V3.pose,de,sgg,0,0,новая коллекция,новая коллекция,0
+sgg/A4.pose,de,sgg,0,0,он,он,0
+sgg/B4.pose,de,sgg,0,0,мужчина,мужчина,0
+sgg/C4.pose,de,sgg,0,0,ванная,ванная,0
+sgg/D4.pose,de,sgg,0,0,противостояние,противостояние,0
+sgg/E4.pose,de,sgg,0,0,ваза,ваза,0
+sgg/F4.pose,de,sgg,0,0,банан,банан,0
+sgg/G4.pose,de,sgg,0,0,берет,берет,0
+sgg/H4.pose,de,sgg,0,0,год,год,0
+sgg/I4.pose,de,sgg,0,0,глина,глина,0
+sgg/J4.pose,de,sgg,0,0,бегемот,бегемот,0
+sgg/K4.pose,de,sgg,0,0,волейбол,волейбол,0
+sgg/L4.pose,de,sgg,0,0,адрес,адрес,0
+sgg/M4.pose,de,sgg,0,0,МЕЛ,МЕЛ,0
+sgg/N4.pose,de,sgg,0,0,семей,семей,0
+sgg/O4.pose,de,sgg,0,0,армения,армения,0
+sgg/P4.pose,de,sgg,0,0,безработный,безработный,0
+sgg/Q4.pose,de,sgg,0,0,СМЕНА ПОЛЬЗОВАТЕЛЯ,СМЕНА ПОЛЬЗОВАТЕЛЯ,0
+sgg/R4.pose,de,sgg,0,0,ТЕЛО,ТЕЛО,0
+sgg/S4.pose,de,sgg,0,0,МАРС,МАРС,0
+sgg/T4.pose,de,sgg,0,0,фигура,фигура,0
+sgg/U4.pose,de,sgg,0,0,Б,Б,0
+sgg/V4.pose,de,sgg,0,0,обновка,обновка,0
+sgg/A5.pose,de,sgg,0,0,мы,мы,0
+sgg/B5.pose,de,sgg,0,0,женщина,женщина,0
+sgg/C5.pose,de,sgg,0,0,баня,баня,0
+sgg/D5.pose,de,sgg,0,0,проблема,проблема,0
+sgg/E5.pose,de,sgg,0,0,вилка,вилка,0
+sgg/F5.pose,de,sgg,0,0,береза,береза,0
+sgg/G5.pose,de,sgg,0,0,брюки,брюки,0
+sgg/H5.pose,de,sgg,0,0,день,день,0
+sgg/I5.pose,de,sgg,0,0,горы,горы,0
+sgg/J5.pose,de,sgg,0,0,блоха,блоха,0
+sgg/K5.pose,de,sgg,0,0,бассейн,бассейн,0
+sgg/L5.pose,de,sgg,0,0,аптека,аптека,0
+sgg/M5.pose,de,sgg,0,0,бумага,бумага,0
+sgg/N5.pose,de,sgg,0,0,оскемен,оскемен,0
+sgg/O5.pose,de,sgg,0,0,азербайджан,азербайджан,0
+sgg/P5.pose,de,sgg,0,0,бизнес,бизнес,0
+sgg/Q5.pose,de,sgg,0,0,КОМПЬЮТЕРНАЯ ИГРА,КОМПЬЮТЕРНАЯ ИГРА,0
+sgg/R5.pose,de,sgg,0,0,КОСТИ,КОСТИ,0
+sgg/S5.pose,de,sgg,0,0,ПЛАНЕТА СОЛНЦЕ,ПЛАНЕТА СОЛНЦЕ,0
+sgg/T5.pose,de,sgg,0,0,маникюр,маникюр,0
+sgg/U5.pose,de,sgg,0,0,В,В,0
+sgg/V5.pose,de,sgg,0,0,одежда,одежда,0
+sgg/A6.pose,de,sgg,0,0,они,они,0
+sgg/B6.pose,de,sgg,0,0,девочка,девочка,0
+sgg/C6.pose,de,sgg,0,0,зеркало,зеркало,0
+sgg/D6.pose,de,sgg,0,0,сомнение,сомнение,0
+sgg/E6.pose,de,sgg,0,0,дуршлаг,дуршлаг,0
+sgg/F6.pose,de,sgg,0,0,ветки,ветки,0
+sgg/G6.pose,de,sgg,0,0,варежки,варежки,0
+sgg/H6.pose,de,sgg,0,0,два года назад,два года назад,0
+sgg/I6.pose,de,sgg,0,0,град,град,0
+sgg/J6.pose,de,sgg,0,0,бык,бык,0
+sgg/K6.pose,de,sgg,0,0,бег,бег,0
+sgg/L6.pose,de,sgg,0,0,банк,банк,0
+sgg/M6.pose,de,sgg,0,0,живопись,живопись,0
+sgg/N6.pose,de,sgg,0,0,караганда,караганда,0
+sgg/O6.pose,de,sgg,0,0,россия,россия,0
+sgg/P6.pose,de,sgg,0,0,бригадир,бригадир,0
+sgg/Q6.pose,de,sgg,0,0,ТЕЛ ЗВОНОК,ТЕЛ ЗВОНОК,0
+sgg/R6.pose,de,sgg,0,0,ПРОСТУДА,ПРОСТУДА,0
+sgg/S6.pose,de,sgg,0,0,КОМЕТА,КОМЕТА,0
+sgg/T6.pose,de,sgg,0,0,маникюр 2,маникюр 2,0
+sgg/U6.pose,de,sgg,0,0,Г,Г,0
+sgg/V6.pose,de,sgg,0,0,покупатель,покупатель,0
+sgg/A7.pose,de,sgg,0,0,мой,мой,0
+sgg/B7.pose,de,sgg,0,0,дети,дети,0
+sgg/C7.pose,de,sgg,0,0,ворота,ворота,0
+sgg/D7.pose,de,sgg,0,0,небрежность,небрежность,0
+sgg/E7.pose,de,sgg,0,0,кастрюля,кастрюля,0
+sgg/F7.pose,de,sgg,0,0,виноград,виноград,0
+sgg/G7.pose,de,sgg,0,0,галстук,галстук,0
+sgg/H7.pose,de,sgg,0,0,два месяца,два месяца,0
+sgg/I7.pose,de,sgg,0,0,гром,гром,0
+sgg/J7.pose,de,sgg,0,0,верблюд,верблюд,0
+sgg/K7.pose,de,sgg,0,0,бокс,бокс,0
+sgg/L7.pose,de,sgg,0,0,баня,баня,0
+sgg/M7.pose,de,sgg,0,0,рисование,рисование,0
+sgg/N7.pose,de,sgg,0,0,паВлодар,паВлодар,0
+sgg/O7.pose,de,sgg,0,0,белоруссия,белоруссия,0
+sgg/P7.pose,de,sgg,0,0,бухгалтер,бухгалтер,0
+sgg/Q7.pose,de,sgg,0,0,СИМ КАРТА,СИМ КАРТА,0
+sgg/R7.pose,de,sgg,0,0,ХРОНИЧЕСКАЯ ЗАБОЛЕВАНИЯ,ХРОНИЧЕСКАЯ ЗАБОЛЕВАНИЯ,0
+sgg/S7.pose,de,sgg,0,0,ЗЕМЛЯ,ЗЕМЛЯ,0
+sgg/T7.pose,de,sgg,0,0,пирсинг,пирсинг,0
+sgg/U7.pose,de,sgg,0,0,Ғ,Ғ,0
+sgg/V7.pose,de,sgg,0,0,распродажа,распродажа,0
+sgg/A8.pose,de,sgg,0,0,мне,мне,0
+sgg/B8.pose,de,sgg,0,0,ребенок,ребенок,0
+sgg/C8.pose,de,sgg,0,0,дверь,дверь,0
+sgg/D8.pose,de,sgg,0,0,активный,активный,0
+sgg/E8.pose,de,sgg,0,0,кружка,кружка,0
+sgg/F8.pose,de,sgg,0,0,ананас,ананас,0
+sgg/G8.pose,de,sgg,0,0,кепка,кепка,0
+sgg/H8.pose,de,sgg,0,0,два часа,два часа,0
+sgg/I8.pose,de,sgg,0,0,дождь,дождь,0
+sgg/J8.pose,de,sgg,0,0,вши,вши,0
+sgg/K8.pose,de,sgg,0,0,борьба,борьба,0
+sgg/L8.pose,de,sgg,0,0,библиотека,библиотека,0
+sgg/M8.pose,de,sgg,0,0,воспитатель,воспитатель,0
+sgg/N8.pose,de,sgg,0,0,кызылорда,кызылорда,0
+sgg/O8.pose,de,sgg,0,0,грузия,грузия,0
+sgg/P8.pose,de,sgg,0,0,врач,врач,0
+sgg/Q8.pose,de,sgg,0,0,ЗАБЛОКИРОВАТЬ,ЗАБЛОКИРОВАТЬ,0
+sgg/R8.pose,de,sgg,0,0,НАРКОМАНИЯ,НАРКОМАНИЯ,0
+sgg/S8.pose,de,sgg,0,0,космонавт,космонавт,0
+sgg/T8.pose,de,sgg,0,0,духи,духи,0
+sgg/U8.pose,de,sgg,0,0,Д,Д,0
+sgg/V8.pose,de,sgg,0,0,покупать,покупать,0
+sgg/A9.pose,de,sgg,0,0,у меня,у меня,0
+sgg/B9.pose,de,sgg,0,0,подросток,подросток,0
+sgg/C9.pose,de,sgg,0,0,дом,дом,0
+sgg/D9.pose,de,sgg,0,0,ругать,ругать,0
+sgg/E9.pose,de,sgg,0,0,ложка,ложка,0
+sgg/F9.pose,de,sgg,0,0,грибы,грибы,0
+sgg/G9.pose,de,sgg,0,0,костюм,костюм,0
+sgg/H9.pose,de,sgg,0,0,две минуты,две минуты,0
+sgg/I9.pose,de,sgg,0,0,звезда,звезда,0
+sgg/J9.pose,de,sgg,0,0,волк,волк,0
+sgg/K9.pose,de,sgg,0,0,быстро,быстро,0
+sgg/L9.pose,de,sgg,0,0,близко,близко,0
+sgg/M9.pose,de,sgg,0,0,директор,директор,0
+sgg/N9.pose,de,sgg,0,0,талдыкорган,талдыкорган,0
+sgg/O9.pose,de,sgg,0,0,латвия,латвия,0
+sgg/P9.pose,de,sgg,0,0,выгода,выгода,0
+sgg/Q9.pose,de,sgg,0,0,АЙФОН,АЙФОН,0
+sgg/R9.pose,de,sgg,0,0,ЭПИДЕМИЯ,ЭПИДЕМИЯ,0
+sgg/S9.pose,de,sgg,0,0,летать в космос,летать в космос,0
+sgg/T9.pose,de,sgg,0,0,мыло,мыло,0
+sgg/U9.pose,de,sgg,0,0,Е,Е,0
+sgg/V9.pose,de,sgg,0,0,размер одежды,размер одежды,0
+sgg/A10.pose,de,sgg,0,0,у вас,у вас,0
+sgg/B10.pose,de,sgg,0,0,семья,семья,0
+sgg/C10.pose,de,sgg,0,0,душ,душ,0
+sgg/D10.pose,de,sgg,0,0,ВНИМАТЕЛЬНО,ВНИМАТЕЛЬНО,0
+sgg/E10.pose,de,sgg,0,0,нож,нож,0
+sgg/F10.pose,de,sgg,0,0,груша,груша,0
+sgg/G10.pose,de,sgg,0,0,одежда,одежда,0
+sgg/H10.pose,de,sgg,0,0,две недели,две недели,0
+sgg/I10.pose,de,sgg,0,0,звезды,звезды,0
+sgg/J10.pose,de,sgg,0,0,гнездо,гнездо,0
+sgg/K10.pose,de,sgg,0,0,ворота,ворота,0
+sgg/L10.pose,de,sgg,0,0,велосипед,велосипед,0
+sgg/M10.pose,de,sgg,0,0,дисциплина,дисциплина,0
+sgg/N10.pose,de,sgg,0,0,шымкент,шымкент,0
+sgg/O10.pose,de,sgg,0,0,литва,литва,0
+sgg/P10.pose,de,sgg,0,0,генерал,генерал,0
+sgg/Q10.pose,de,sgg,0,0,ЗВУК,ЗВУК,0
+sgg/R10.pose,de,sgg,0,0,ЭПИЛЕПСИЯ,ЭПИЛЕПСИЯ,0
+sgg/S10.pose,de,sgg,0,0,путешествие в космос,путешествие в космос,0
+sgg/T10.pose,de,sgg,0,0,шампунь,шампунь,0
+sgg/U10.pose,de,sgg,0,0,Е,Е,0
+sgg/V10.pose,de,sgg,0,0,заниматься шопингом,заниматься шопингом,0
+sgg/A11.pose,de,sgg,0,0,ваш,ваш,0
+sgg/B11.pose,de,sgg,0,0,отец,отец,0
+sgg/C11.pose,de,sgg,0,0,забор,забор,0
+sgg/D11.pose,de,sgg,0,0,БОЯТЬСЯ,БОЯТЬСЯ,0
+sgg/E11.pose,de,sgg,0,0,половник,половник,0
+sgg/F11.pose,de,sgg,0,0,грязный,грязный,0
+sgg/G11.pose,de,sgg,0,0,пальто,пальто,0
+sgg/H11.pose,de,sgg,0,0,прошлый год,прошлый год,0
+sgg/I11.pose,de,sgg,0,0,земля,земля,0
+sgg/J11.pose,de,sgg,0,0,гусеница,гусеница,0
+sgg/K11.pose,de,sgg,0,0,вратарь,вратарь,0
+sgg/L11.pose,de,sgg,0,0,город,город,0
+sgg/M11.pose,de,sgg,0,0,доска,доска,0
+sgg/N11.pose,de,sgg,0,0,туркестан,туркестан,0
+sgg/O11.pose,de,sgg,0,0,молдавия,молдавия,0
+sgg/P11.pose,de,sgg,0,0,грузчик,грузчик,0
+sgg/Q11.pose,de,sgg,0,0,СОХРАНИТЬ,СОХРАНИТЬ,0
+sgg/R11.pose,de,sgg,0,0,ЗДОРОВЬЕ,ЗДОРОВЬЕ,0
+sgg/S11.pose,de,sgg,0,0,метеорит,метеорит,0
+sgg/T11.pose,de,sgg,0,0,кудры,кудры,0
+sgg/U11.pose,de,sgg,0,0,Ж,Ж,0
+sgg/V11.pose,de,sgg,0,0,заказывать,заказывать,0
+sgg/A12.pose,de,sgg,0,0,его,его,0
+sgg/B12.pose,de,sgg,0,0,мать,мать,0
+sgg/C12.pose,de,sgg,0,0,замок,замок,0
+sgg/D12.pose,de,sgg,0,0,ПУГАТЬСЯ,ПУГАТЬСЯ,0
+sgg/E12.pose,de,sgg,0,0,посуда,посуда,0
+sgg/F12.pose,de,sgg,0,0,дерево,дерево,0
+sgg/G12.pose,de,sgg,0,0,панама,панама,0
+sgg/H12.pose,de,sgg,0,0,через один год,через один год,0
+sgg/I12.pose,de,sgg,0,0,камень,камень,0
+sgg/J12.pose,de,sgg,0,0,гусь,гусь,0
+sgg/K12.pose,de,sgg,0,0,ПРЕДУПРЕДИТЬ,ПРЕДУПРЕДИТЬ,0
+sgg/L12.pose,de,sgg,0,0,гулять,гулять,0
+sgg/M12.pose,de,sgg,0,0,жестовый язык,жестовый язык,0
+sgg/N12.pose,de,sgg,0,0,атырау,атырау,0
+sgg/O12.pose,de,sgg,0,0,татарстан,татарстан,0
+sgg/P12.pose,de,sgg,0,0,дело,дело,0
+sgg/Q12.pose,de,sgg,0,0,РЕДАКТИРОВАТЬ,РЕДАКТИРОВАТЬ,0
+sgg/R12.pose,de,sgg,0,0,СЕРДЦЕ,СЕРДЦЕ,0
+sgg/S12.pose,de,sgg,0,0,падение метеорита,падение метеорита,0
+sgg/T12.pose,de,sgg,0,0,локоны,локоны,0
+sgg/U12.pose,de,sgg,0,0,З,З,0
+sgg/A13.pose,de,sgg,0,0,сам,сам,0
+sgg/B13.pose,de,sgg,0,0,дочь,дочь,0
+sgg/C13.pose,de,sgg,0,0,кафель,кафель,0
+sgg/D13.pose,de,sgg,0,0,АМБИЦИЯ,АМБИЦИЯ,0
+sgg/E13.pose,de,sgg,0,0,сито,сито,0
+sgg/F13.pose,de,sgg,0,0,дыня,дыня,0
+sgg/G13.pose,de,sgg,0,0,перчатки,перчатки,0
+sgg/H13.pose,de,sgg,0,0,завтра,завтра,0
+sgg/I13.pose,de,sgg,0,0,космос,космос,0
+sgg/J13.pose,de,sgg,0,0,дельфин,дельфин,0
+sgg/K13.pose,de,sgg,0,0,гол,гол,0
+sgg/L13.pose,de,sgg,0,0,далеко,далеко,0
+sgg/M13.pose,de,sgg,0,0,задача,задача,0
+sgg/N13.pose,de,sgg,0,0,актау,актау,0
+sgg/O13.pose,de,sgg,0,0,украина,украина,0
+sgg/P13.pose,de,sgg,0,0,деньги,деньги,0
+sgg/Q13.pose,de,sgg,0,0,ОТПРАВИТЬ НА ПЕЧАТЬ,ОТПРАВИТЬ НА ПЕЧАТЬ,0
+sgg/R13.pose,de,sgg,0,0,ИНФАРКТ,ИНФАРКТ,0
+sgg/S13.pose,de,sgg,0,0,метеоритный камень,метеоритный камень,0
+sgg/T13.pose,de,sgg,0,0,химическая завивка,химическая завивка,0
+sgg/U13.pose,de,sgg,0,0,И,И,0
+sgg/A14.pose,de,sgg,0,0,свой,свой,0
+sgg/B14.pose,de,sgg,0,0,сын,сын,0
+sgg/C14.pose,de,sgg,0,0,мало,мало,0
+sgg/D14.pose,de,sgg,0,0,СЛЕПОЙ,СЛЕПОЙ,0
+sgg/E14.pose,de,sgg,0,0,скалка,скалка,0
+sgg/F14.pose,de,sgg,0,0,ель,ель,0
+sgg/G14.pose,de,sgg,0,0,платок,платок,0
+sgg/H14.pose,de,sgg,0,0,месяц,месяц,0
+sgg/I14.pose,de,sgg,0,0,лед,лед,0
+sgg/J14.pose,de,sgg,0,0,еж,еж,0
+sgg/K14.pose,de,sgg,0,0,СопротивлениЕ,СопротивлениЕ,0
+sgg/L14.pose,de,sgg,0,0,кино,кино,0
+sgg/M14.pose,de,sgg,0,0,карандаш,карандаш,0
+sgg/N14.pose,de,sgg,0,0,актобе,актобе,0
+sgg/O14.pose,de,sgg,0,0,узбекистан,узбекистан,0
+sgg/P14.pose,de,sgg,0,0,дешево,дешево,0
+sgg/Q14.pose,de,sgg,0,0,ПЕЧАТАТЬ ТЕКСТ,ПЕЧАТАТЬ ТЕКСТ,0
+sgg/R14.pose,de,sgg,0,0,ГИПЕРТОНИЯ,ГИПЕРТОНИЯ,0
+sgg/S14.pose,de,sgg,0,0,ПЛАНЕТА,ПЛАНЕТА,0
+sgg/T14.pose,de,sgg,0,0,парикмахер,парикмахер,0
+sgg/U14.pose,de,sgg,0,0,Й,Й,0
+sgg/A15.pose,de,sgg,0,0,где,где,0
+sgg/B15.pose,de,sgg,0,0,бабушка,бабушка,0
+sgg/C15.pose,de,sgg,0,0,много,много,0
+sgg/D15.pose,de,sgg,0,0,ХВАСТУН,ХВАСТУН,0
+sgg/E15.pose,de,sgg,0,0,чайник,чайник,0
+sgg/F15.pose,de,sgg,0,0,кабачок,кабачок,0
+sgg/G15.pose,de,sgg,0,0,платье,платье,0
+sgg/H15.pose,de,sgg,0,0,минута,минута,0
+sgg/I15.pose,de,sgg,0,0,луна,луна,0
+sgg/J15.pose,de,sgg,0,0,животное,животное,0
+sgg/K15.pose,de,sgg,0,0,зарядка,зарядка,0
+sgg/L15.pose,de,sgg,0,0,магазин,магазин,0
+sgg/M15.pose,de,sgg,0,0,кисточка,кисточка,0
+sgg/N15.pose,de,sgg,0,0,ГЕРБ,ГЕРБ,0
+sgg/O15.pose,de,sgg,0,0,эстония,эстония,0
+sgg/P15.pose,de,sgg,0,0,долг,долг,0
+sgg/Q15.pose,de,sgg,0,0,КОПИРОВАТЬ,КОПИРОВАТЬ,0
+sgg/R15.pose,de,sgg,0,0,БОЛЕЗНЬ,БОЛЕЗНЬ,0
+sgg/S15.pose,de,sgg,0,0,РАКЕТА,РАКЕТА,0
+sgg/T15.pose,de,sgg,0,0,салон красоты,салон красоты,0
+sgg/U15.pose,de,sgg,0,0,К,К,0
+sgg/A16.pose,de,sgg,0,0,зачем,зачем,0
+sgg/B16.pose,de,sgg,0,0,дедушка,дедушка,0
+sgg/C16.pose,de,sgg,0,0,крыша,крыша,0
+sgg/D16.pose,de,sgg,0,0,СКУКА,СКУКА,0
+sgg/E16.pose,de,sgg,0,0,чашка,чашка,0
+sgg/F16.pose,de,sgg,0,0,капуста,капуста,0
+sgg/G16.pose,de,sgg,0,0,пояс,пояс,0
+sgg/H16.pose,de,sgg,0,0,момент,момент,0
+sgg/I16.pose,de,sgg,0,0,мокрый,мокрый,0
+sgg/J16.pose,de,sgg,0,0,жираф,жираф,0
+sgg/K16.pose,de,sgg,0,0,ГЕРБАРИЙ,ГЕРБАРИЙ,0
+sgg/L16.pose,de,sgg,0,0,метро,метро,0
+sgg/M16.pose,de,sgg,0,0,класс,класс,0
+sgg/N16.pose,de,sgg,0,0,астана,астана,0
+sgg/O16.pose,de,sgg,0,0,якутия,якутия,0
+sgg/P16.pose,de,sgg,0,0,дорого,дорого,0
+sgg/Q16.pose,de,sgg,0,0,ВСТАВКА ТАБЛИЦЫ,ВСТАВКА ТАБЛИЦЫ,0
+sgg/R16.pose,de,sgg,0,0,ЗАРАЗА,ЗАРАЗА,0
+sgg/S16.pose,de,sgg,0,0,ЮПИТЕР,ЮПИТЕР,0
+sgg/T16.pose,de,sgg,0,0,против морщин,против морщин,0
+sgg/U16.pose,de,sgg,0,0,Қ,Қ,0
+sgg/A17.pose,de,sgg,0,0,какой,какой,0
+sgg/B17.pose,de,sgg,0,0,сестра,сестра,0
+sgg/C17.pose,de,sgg,0,0,обои,обои,0
+sgg/D17.pose,de,sgg,0,0,ЗАБОТА,ЗАБОТА,0
+sgg/E17.pose,de,sgg,0,0,блины,блины,0
+sgg/F17.pose,de,sgg,0,0,картофель,картофель,0
+sgg/G17.pose,de,sgg,0,0,полувер,полувер,0
+sgg/H17.pose,de,sgg,0,0,неделя,неделя,0
+sgg/I17.pose,de,sgg,0,0,молния,молния,0
+sgg/J17.pose,de,sgg,0,0,заяц,заяц,0
+sgg/K17.pose,de,sgg,0,0,игра,игра,0
+sgg/L17.pose,de,sgg,0,0,полиция,полиция,0
+sgg/M17.pose,de,sgg,0,0,книга/ люб книга,книга/ люб книга,0
+sgg/N17.pose,de,sgg,0,0,кокшетау,кокшетау,0
+sgg/O17.pose,de,sgg,0,0,америка,америка,0
+sgg/P17.pose,de,sgg,0,0,доярка,доярка,0
+sgg/Q17.pose,de,sgg,0,0,ДОКУМЕНТ,ДОКУМЕНТ,0
+sgg/R17.pose,de,sgg,0,0,УКОЛ,УКОЛ,0
+sgg/S17.pose,de,sgg,0,0,BCEЛEHHAЯ,BCEЛEHHAЯ,0
+sgg/T17.pose,de,sgg,0,0,морщины,морщины,0
+sgg/U17.pose,de,sgg,0,0,Л,Л,0
+sgg/A18.pose,de,sgg,0,0,когда,когда,0
+sgg/B18.pose,de,sgg,0,0,брат,брат,0
+sgg/C18.pose,de,sgg,0,0,окно,окно,0
+sgg/D18.pose,de,sgg,0,0,ВЕСЕЛЫЙ,ВЕСЕЛЫЙ,0
+sgg/E18.pose,de,sgg,0,0,булка,булка,0
+sgg/F18.pose,de,sgg,0,0,кислый,кислый,0
+sgg/G18.pose,de,sgg,0,0,ремень,ремень,0
+sgg/H18.pose,de,sgg,0,0,ночь,ночь,0
+sgg/I18.pose,de,sgg,0,0,море,море,0
+sgg/J18.pose,de,sgg,0,0,змея,змея,0
+sgg/K18.pose,de,sgg,0,0,идти,идти,0
+sgg/L18.pose,de,sgg,0,0,мост,мост,0
+sgg/M18.pose,de,sgg,0,0,краска,краска,0
+sgg/N18.pose,de,sgg,0,0,ВИЗИТКА,ВИЗИТКА,0
+sgg/O18.pose,de,sgg,0,0,сша,сша,0
+sgg/P18.pose,de,sgg,0,0,завод,завод,0
+sgg/Q18.pose,de,sgg,0,0,БАТАРЕЙКА,БАТАРЕЙКА,0
+sgg/R18.pose,de,sgg,0,0,БЕССОНИЦА,БЕССОНИЦА,0
+sgg/S18.pose,de,sgg,0,0,ВСЕМИРНЫЙ,ВСЕМИРНЫЙ,0
+sgg/T18.pose,de,sgg,0,0,визажист,визажист,0
+sgg/U18.pose,de,sgg,0,0,М,М,0
+sgg/A19.pose,de,sgg,0,0,кто,кто,0
+sgg/B19.pose,de,sgg,0,0,близнецы,близнецы,0
+sgg/C19.pose,de,sgg,0,0,соседи,соседи,0
+sgg/D19.pose,de,sgg,0,0,ЖАЛОСТЬ,ЖАЛОСТЬ,0
+sgg/E19.pose,de,sgg,0,0,варить,варить,0
+sgg/F19.pose,de,sgg,0,0,крупный,крупный,0
+sgg/G19.pose,de,sgg,0,0,рубашка,рубашка,0
+sgg/H19.pose,de,sgg,0,0,позавчера,позавчера,0
+sgg/I19.pose,de,sgg,0,0,мороз,мороз,0
+sgg/J19.pose,de,sgg,0,0,клоп,клоп,0
+sgg/K19.pose,de,sgg,0,0,каратэ,каратэ,0
+sgg/L19.pose,de,sgg,0,0,направление,направление,0
+sgg/M19.pose,de,sgg,0,0,ластик,ластик,0
+sgg/N19.pose,de,sgg,0,0,петропавлск,петропавлск,0
+sgg/O19.pose,de,sgg,0,0,африка,африка,0
+sgg/P19.pose,de,sgg,0,0,зарплата,зарплата,0
+sgg/Q19.pose,de,sgg,0,0,КУРСЫ ПРОГРАММИРОВАНИЯ,КУРСЫ ПРОГРАММИРОВАНИЯ,0
+sgg/R19.pose,de,sgg,0,0,ИНВАЛИД,ИНВАЛИД,0
+sgg/S19.pose,de,sgg,0,0,ВСЕМОГУЩИЙ,ВСЕМОГУЩИЙ,0
+sgg/T19.pose,de,sgg,0,0,карандаш для глаз,карандаш для глаз,0
+sgg/U19.pose,de,sgg,0,0,Н,Н,0
+sgg/A20.pose,de,sgg,0,0,куда,куда,0
+sgg/B20.pose,de,sgg,0,0,дядя,дядя,0
+sgg/C20.pose,de,sgg,0,0,телефон,телефон,0
+sgg/D20.pose,de,sgg,0,0,ЖЕСТОКИЙ,ЖЕСТОКИЙ,0
+sgg/E20.pose,de,sgg,0,0,сладкий,сладкий,0
+sgg/F20.pose,de,sgg,0,0,кукуруза,кукуруза,0
+sgg/G20.pose,de,sgg,0,0,сарафан,сарафан,0
+sgg/H20.pose,de,sgg,0,0,послезавтра,послезавтра,0
+sgg/I20.pose,de,sgg,0,0,небо,небо,0
+sgg/J20.pose,de,sgg,0,0,индюк,индюк,0
+sgg/K20.pose,de,sgg,0,0,карты,карты,0
+sgg/L20.pose,de,sgg,0,0,остановка,остановка,0
+sgg/M20.pose,de,sgg,0,0,линейка,линейка,0
+sgg/N20.pose,de,sgg,0,0,темиртау,темиртау,0
+sgg/O20.pose,de,sgg,0,0,азия,азия,0
+sgg/P20.pose,de,sgg,0,0,капитан,капитан,0
+sgg/Q20.pose,de,sgg,0,0,БЕСПЛАТНАЯ ПРОГРАММА,БЕСПЛАТНАЯ ПРОГРАММА,0
+sgg/R20.pose,de,sgg,0,0,КРОВОТОЧЕНИЕ,КРОВОТОЧЕНИЕ,0
+sgg/S20.pose,de,sgg,0,0,астронавтика,астронавтика,0
+sgg/T20.pose,de,sgg,0,0,пудра,пудра,0
+sgg/U20.pose,de,sgg,0,0,Ң,Ң,0
+sgg/A21.pose,de,sgg,0,0,откуда,откуда,0
+sgg/B21.pose,de,sgg,0,0,тетя,тетя,0
+sgg/C21.pose,de,sgg,0,0,туалет,туалет,0
+sgg/D21.pose,de,sgg,0,0,ПЛАКАТЬ,ПЛАКАТЬ,0
+sgg/E21.pose,de,sgg,0,0,вкусно,вкусно,0
+sgg/F21.pose,de,sgg,0,0,куст,куст,0
+sgg/G21.pose,de,sgg,0,0,трусы,трусы,0
+sgg/H21.pose,de,sgg,0,0,сегодня,сегодня,0
+sgg/I21.pose,de,sgg,0,0,облако,облако,0
+sgg/J21.pose,de,sgg,0,0,кенгуру,кенгуру,0
+sgg/K21.pose,de,sgg,0,0,катание фигурное,катание фигурное,0
+sgg/L21.pose,de,sgg,0,0,очередь,очередь,0
+sgg/M21.pose,de,sgg,0,0,первоклассник,первоклассник,0
+sgg/N21.pose,de,sgg,0,0,вице,вице,0
+sgg/O21.pose,de,sgg,0,0,албания,албания,0
+sgg/P21.pose,de,sgg,0,0,кредит,кредит,0
+sgg/Q21.pose,de,sgg,0,0,АВТООТВЕТЧИК,АВТООТВЕТЧИК,0
+sgg/R21.pose,de,sgg,0,0,ПОЧКИ,ПОЧКИ,0
+sgg/T21.pose,de,sgg,0,0,румяна,румяна,0
+sgg/U21.pose,de,sgg,0,0,О,О,0
+sgg/A22.pose,de,sgg,0,0,сколько,сколько,0
+sgg/B22.pose,de,sgg,0,0,племянник,племянник,0
+sgg/C22.pose,de,sgg,0,0,факс,факс,0
+sgg/D22.pose,de,sgg,0,0,ХИТРЫЙ,ХИТРЫЙ,0
+sgg/E22.pose,de,sgg,0,0,готовить,готовить,0
+sgg/F22.pose,de,sgg,0,0,лес,лес,0
+sgg/G22.pose,de,sgg,0,0,футболка,футболка,0
+sgg/H22.pose,de,sgg,0,0,секунда,секунда,0
+sgg/I22.pose,de,sgg,0,0,озеро,озеро,0
+sgg/J22.pose,de,sgg,0,0,коза,коза,0
+sgg/K22.pose,de,sgg,0,0,команда,команда,0
+sgg/L22.pose,de,sgg,0,0,парикмахерская,парикмахерская,0
+sgg/M22.pose,de,sgg,0,0,математика,математика,0
+sgg/N22.pose,de,sgg,0,0,выборы,выборы,0
+sgg/O22.pose,de,sgg,0,0,англия,англия,0
+sgg/P22.pose,de,sgg,0,0,кузнец,кузнец,0
+sgg/Q22.pose,de,sgg,0,0,РЕГИСТРАЦИЯ,РЕГИСТРАЦИЯ,0
+sgg/R22.pose,de,sgg,0,0,ПЕЧЕНЬ,ПЕЧЕНЬ,0
+sgg/T22.pose,de,sgg,0,0,блеск для губ,блеск для губ,0
+sgg/U22.pose,de,sgg,0,0,Ө,Ө,0
+sgg/A23.pose,de,sgg,0,0,что,что,0
+sgg/B23.pose,de,sgg,0,0,родственник,родственник,0
+sgg/C23.pose,de,sgg,0,0,электричество,электричество,0
+sgg/D23.pose,de,sgg,0,0,ГЛУХОЙ,ГЛУХОЙ,0
+sgg/E23.pose,de,sgg,0,0,есть,есть,0
+sgg/F23.pose,de,sgg,0,0,лимон,лимон,0
+sgg/G23.pose,de,sgg,0,0,чулки,чулки,0
+sgg/H23.pose,de,sgg,0,0,сутки,сутки,0
+sgg/I23.pose,de,sgg,0,0,пыль,пыль,0
+sgg/J23.pose,de,sgg,0,0,козел,козел,0
+sgg/K23.pose,de,sgg,0,0,коньки,коньки,0
+sgg/L23.pose,de,sgg,0,0,перекресток,перекресток,0
+sgg/M23.pose,de,sgg,0,0,физика,физика,0
+sgg/N23.pose,de,sgg,0,0,глава,глава,0
+sgg/O23.pose,de,sgg,0,0,болгария,болгария,0
+sgg/P23.pose,de,sgg,0,0,купить,купить,0
+sgg/Q23.pose,de,sgg,0,0,ЯЗЫК ПРОГРАММИРОВАНИЯ,ЯЗЫК ПРОГРАММИРОВАНИЯ,0
+sgg/R23.pose,de,sgg,0,0,СУМАШЕСТВИЕ,СУМАШЕСТВИЕ,0
+sgg/T23.pose,de,sgg,0,0,завивка ресниц,завивка ресниц,0
+sgg/U23.pose,de,sgg,0,0,П,П,0
+sgg/A24.pose,de,sgg,0,0,этот,этот,0
+sgg/B24.pose,de,sgg,0,0,родители(мама и папа),родители(мама и папа),0
+sgg/C24.pose,de,sgg,0,0,этаж,этаж,0
+sgg/D24.pose,de,sgg,0,0,ТРУДНЫЙ,ТРУДНЫЙ,0
+sgg/E24.pose,de,sgg,0,0,жарить,жарить,0
+sgg/F24.pose,de,sgg,0,0,лист,лист,0
+sgg/G24.pose,de,sgg,0,0,шаровары,шаровары,0
+sgg/H24.pose,de,sgg,0,0,утро,утро,0
+sgg/I24.pose,de,sgg,0,0,огонь,огонь,0
+sgg/J24.pose,de,sgg,0,0,комар,комар,0
+sgg/K24.pose,de,sgg,0,0,легкий,легкий,0
+sgg/L24.pose,de,sgg,0,0,переход,переход,0
+sgg/M24.pose,de,sgg,0,0,химия,химия,0
+sgg/N24.pose,de,sgg,0,0,государтсво,государтсво,0
+sgg/O24.pose,de,sgg,0,0,венгрия,венгрия,0
+sgg/P24.pose,de,sgg,0,0,льгота,льгота,0
+sgg/Q24.pose,de,sgg,0,0,ПРОГРАММИРОВАНИЕ,ПРОГРАММИРОВАНИЕ,0
+sgg/R24.pose,de,sgg,0,0,ЛЕКАРСТВО,ЛЕКАРСТВО,0
+sgg/T24.pose,de,sgg,0,0,коррекция бровей,коррекция бровей,0
+sgg/U24.pose,de,sgg,0,0,Р,Р,0
+sgg/A25.pose,de,sgg,0,0,часто,часто,0
+sgg/B25.pose,de,sgg,0,0,поколение,поколение,0
+sgg/C25.pose,de,sgg,0,0,картина,картина,0
+sgg/D25.pose,de,sgg,0,0,СТАРАТЕЛЬНЫЙ,СТАРАТЕЛЬНЫЙ,0
+sgg/E25.pose,de,sgg,0,0,каша,каша,0
+sgg/F25.pose,de,sgg,0,0,лук,лук,0
+sgg/G25.pose,de,sgg,0,0,шарф,шарф,0
+sgg/H25.pose,de,sgg,0,0,было,было,0
+sgg/I25.pose,de,sgg,0,0,природа,природа,0
+sgg/J25.pose,de,sgg,0,0,корова,корова,0
+sgg/K25.pose,de,sgg,0,0,лодка,лодка,0
+sgg/L25.pose,de,sgg,0,0,площадь,площадь,0
+sgg/M25.pose,de,sgg,0,0,алгебра,алгебра,0
+sgg/N25.pose,de,sgg,0,0,граница,граница,0
+sgg/O25.pose,de,sgg,0,0,вьетнам,вьетнам,0
+sgg/P25.pose,de,sgg,0,0,банкомат,банкомат,0
+sgg/Q25.pose,de,sgg,0,0,онлайн чат,онлайн чат,0
+sgg/R25.pose,de,sgg,0,0,МЕДИЦИНА,МЕДИЦИНА,0
+sgg/T25.pose,de,sgg,0,0,лысый,лысый,0
+sgg/U25.pose,de,sgg,0,0,С,С,0
+sgg/A26.pose,de,sgg,0,0,ничего,ничего,0
+sgg/B26.pose,de,sgg,0,0,взрослый,взрослый,0
+sgg/C26.pose,de,sgg,0,0,ковер,ковер,0
+sgg/D26.pose,de,sgg,0,0,ОТВРАТИТЕЛЬНЫЙ,ОТВРАТИТЕЛЬНЫЙ,0
+sgg/E26.pose,de,sgg,0,0,кефир,кефир,0
+sgg/F26.pose,de,sgg,0,0,мелкий,мелкий,0
+sgg/G26.pose,de,sgg,0,0,шляпа,шляпа,0
+sgg/H26.pose,de,sgg,0,0,вечно,вечно,0
+sgg/I26.pose,de,sgg,0,0,радуга,радуга,0
+sgg/J26.pose,de,sgg,0,0,кошка,кошка,0
+sgg/K26.pose,de,sgg,0,0,медленно,медленно,0
+sgg/L26.pose,de,sgg,0,0,поворот,поворот,0
+sgg/M26.pose,de,sgg,0,0,геометрия,геометрия,0
+sgg/N26.pose,de,sgg,0,0,демократия,демократия,0
+sgg/O26.pose,de,sgg,0,0,германия,германия,0
+sgg/P26.pose,de,sgg,0,0,мастер,мастер,0
+sgg/Q26.pose,de,sgg,0,0,анимация,анимация,0
+sgg/R26.pose,de,sgg,0,0,НАСМОРК,НАСМОРК,0
+sgg/T26.pose,de,sgg,0,0,массаж,массаж,0
+sgg/U26.pose,de,sgg,0,0,Т,Т,0
+sgg/A27.pose,de,sgg,0,0,никогда,никогда,0
+sgg/B27.pose,de,sgg,0,0,младший,младший,0
+sgg/C27.pose,de,sgg,0,0,комод,комод,0
+sgg/D27.pose,de,sgg,0,0,ЭМОЦИЯ,ЭМОЦИЯ,0
+sgg/E27.pose,de,sgg,0,0,кипятить,кипятить,0
+sgg/F27.pose,de,sgg,0,0,морковь,морковь,0
+sgg/G27.pose,de,sgg,0,0,шуба,шуба,0
+sgg/H27.pose,de,sgg,0,0,всегда,всегда,0
+sgg/I27.pose,de,sgg,0,0,река,река,0
+sgg/J27.pose,de,sgg,0,0,крокодил,крокодил,0
+sgg/K27.pose,de,sgg,0,0,лыжи,лыжи,0
+sgg/L27.pose,de,sgg,0,0,подземный переход,подземный переход,0
+sgg/M27.pose,de,sgg,0,0,география,география,0
+sgg/N27.pose,de,sgg,0,0,капитализм,капитализм,0
+sgg/O27.pose,de,sgg,0,0,голландия,голландия,0
+sgg/P27.pose,de,sgg,0,0,медсестра,медсестра,0
+sgg/Q27.pose,de,sgg,0,0,онлайн знакомство,онлайн знакомство,0
+sgg/R27.pose,de,sgg,0,0,ПАРАЛИЧ,ПАРАЛИЧ,0
+sgg/T27.pose,de,sgg,0,0,ресницы,ресницы,0
+sgg/U27.pose,de,sgg,0,0,У,У,0
+sgg/A28.pose,de,sgg,0,0,никто,никто,0
+sgg/B28.pose,de,sgg,0,0,муж жена,муж жена,0
+sgg/C28.pose,de,sgg,0,0,люстра,люстра,0
+sgg/D28.pose,de,sgg,0,0,ВЗВОЛНОВАННЫЙ,ВЗВОЛНОВАННЫЙ,0
+sgg/E28.pose,de,sgg,0,0,колбаса,колбаса,0
+sgg/F28.pose,de,sgg,0,0,овощи,овощи,0
+sgg/G28.pose,de,sgg,0,0,юбка,юбка,0
+sgg/H28.pose,de,sgg,0,0,давно,давно,0
+sgg/I28.pose,de,sgg,0,0,скалы,скалы,0
+sgg/J28.pose,de,sgg,0,0,кузнечик,кузнечик,0
+sgg/K28.pose,de,sgg,0,0,мяч,мяч,0
+sgg/L28.pose,de,sgg,0,0,поликлиника,поликлиника,0
+sgg/M28.pose,de,sgg,0,0,биология,биология,0
+sgg/N28.pose,de,sgg,0,0,министр,министр,0
+sgg/O28.pose,de,sgg,0,0,греция,греция,0
+sgg/P28.pose,de,sgg,0,0,медбрат,медбрат,0
+sgg/Q28.pose,de,sgg,0,0,нажимать на кнопку,нажимать на кнопку,0
+sgg/R28.pose,de,sgg,0,0,ТЕРАПЕВТ,ТЕРАПЕВТ,0
+sgg/T28.pose,de,sgg,0,0,тушь,тушь,0
+sgg/U28.pose,de,sgg,0,0,Ұ,Ұ,0
+sgg/A29.pose,de,sgg,0,0,все,все,0
+sgg/B29.pose,de,sgg,0,0,невеста жених,невеста жених,0
+sgg/C29.pose,de,sgg,0,0,полка,полка,0
+sgg/D29.pose,de,sgg,0,0,ЧУВСТВО,ЧУВСТВО,0
+sgg/E29.pose,de,sgg,0,0,конфеты,конфеты,0
+sgg/F29.pose,de,sgg,0,0,огурец,огурец,0
+sgg/G29.pose,de,sgg,0,0,ботинки,ботинки,0
+sgg/H29.pose,de,sgg,0,0,дата,дата,0
+sgg/I29.pose,de,sgg,0,0,снег,снег,0
+sgg/J29.pose,de,sgg,0,0,курица,курица,0
+sgg/K29.pose,de,sgg,0,0,убегать,убегать,0
+sgg/L29.pose,de,sgg,0,0,почта,почта,0
+sgg/M29.pose,de,sgg,0,0,казахский язык,казахский язык,0
+sgg/N29.pose,de,sgg,0,0,суд,суд,0
+sgg/O29.pose,de,sgg,0,0,ТАШКЕНТ,ТАШКЕНТ,0
+sgg/P29.pose,de,sgg,0,0,моряк,моряк,0
+sgg/Q29.pose,de,sgg,0,0,сенсорный дисплей,сенсорный дисплей,0
+sgg/R29.pose,de,sgg,0,0,ТАБЛЕТКА,ТАБЛЕТКА,0
+sgg/T29.pose,de,sgg,0,0,серьги- бижутерия,серьги- бижутерия,0
+sgg/U29.pose,de,sgg,0,0,Ү,Ү,0
+sgg/A30.pose,de,sgg,0,0,нет,нет,0
+sgg/B30.pose,de,sgg,0,0,свадьба,свадьба,0
+sgg/C30.pose,de,sgg,0,0,полотенце,полотенце,0
+sgg/D30.pose,de,sgg,0,0,НЕЖНОСТЬ,НЕЖНОСТЬ,0
+sgg/E30.pose,de,sgg,0,0,кофе,кофе,0
+sgg/F30.pose,de,sgg,0,0,помидор,помидор,0
+sgg/G30.pose,de,sgg,0,0,босоножки,босоножки,0
+sgg/H30.pose,de,sgg,0,0,дважды,дважды,0
+sgg/I30.pose,de,sgg,0,0,сухой,сухой,0
+sgg/J30.pose,de,sgg,0,0,лев,лев,0
+sgg/K30.pose,de,sgg,0,0,олимпиада,олимпиада,0
+sgg/L30.pose,de,sgg,0,0,проспект,проспект,0
+sgg/M30.pose,de,sgg,0,0,русский язык,русский язык,0
+sgg/N30.pose,de,sgg,0,0,парламент,парламент,0
+sgg/O30.pose,de,sgg,0,0,египет,египет,0
+sgg/P30.pose,de,sgg,0,0,образование,образование,0
+sgg/Q30.pose,de,sgg,0,0,мышка,мышка,0
+sgg/R30.pose,de,sgg,0,0,ПОЗВОНОЧНИК,ПОЗВОНОЧНИК,0
+sgg/T30.pose,de,sgg,0,0,каре,каре,0
+sgg/U30.pose,de,sgg,0,0,Ф,Ф,0
+sgg/A31.pose,de,sgg,0,0,да,да,0
+sgg/B31.pose,de,sgg,0,0,развод,развод,0
+sgg/C31.pose,de,sgg,0,0,пылесос,пылесос,0
+sgg/D31.pose,de,sgg,0,0,ЩЕДРЫЙ,ЩЕДРЫЙ,0
+sgg/E31.pose,de,sgg,0,0,крупа,крупа,0
+sgg/F31.pose,de,sgg,0,0,персик,персик,0
+sgg/G31.pose,de,sgg,0,0,тұмар,тұмар,0
+sgg/H31.pose,de,sgg,0,0,до,до,0
+sgg/I31.pose,de,sgg,0,0,экология,экология,0
+sgg/J31.pose,de,sgg,0,0,летать,летать,0
+sgg/K31.pose,de,sgg,0,0,отпуск,отпуск,0
+sgg/L31.pose,de,sgg,0,0,район,район,0
+sgg/M31.pose,de,sgg,0,0,иностранный язык,иностранный язык,0
+sgg/N31.pose,de,sgg,0,0,постановление,постановление,0
+sgg/O31.pose,de,sgg,0,0,израиль,израиль,0
+sgg/P31.pose,de,sgg,0,0,высшее образование,высшее образование,0
+sgg/Q31.pose,de,sgg,0,0,печать,печать,0
+sgg/R31.pose,de,sgg,0,0,БЕРЕМЕННОСТЬ,БЕРЕМЕННОСТЬ,0
+sgg/T31.pose,de,sgg,0,0,крем для лица,крем для лица,0
+sgg/U31.pose,de,sgg,0,0,Х,Х,0
+sgg/A32.pose,de,sgg,0,0,редко,редко,0
+sgg/B32.pose,de,sgg,0,0,холостяк,холостяк,0
+sgg/C32.pose,de,sgg,0,0,часы,часы,0
+sgg/D32.pose,de,sgg,0,0,СИМПОТИЧНЫЙ,СИМПОТИЧНЫЙ,0
+sgg/E32.pose,de,sgg,0,0,рисовая каша,рисовая каша,0
+sgg/F32.pose,de,sgg,0,0,орехи,орехи,0
+sgg/G32.pose,de,sgg,0,0,каблук,каблук,0
+sgg/H32.pose,de,sgg,0,0,древность,древность,0
+sgg/I32.pose,de,sgg,0,0,болото,болото,0
+sgg/J32.pose,de,sgg,0,0,лиса,лиса,0
+sgg/K32.pose,de,sgg,0,0,отстать,отстать,0
+sgg/L32.pose,de,sgg,0,0,ресторан,ресторан,0
+sgg/M32.pose,de,sgg,0,0,история,история,0
+sgg/N32.pose,de,sgg,0,0,правительство,правительство,0
+sgg/O32.pose,de,sgg,0,0,индия,индия,0
+sgg/P32.pose,de,sgg,0,0,культура,культура,0
+sgg/R32.pose,de,sgg,0,0,ПСИХОЗ,ПСИХОЗ,0
+sgg/T32.pose,de,sgg,0,0,зеркало,зеркало,0
+sgg/U32.pose,de,sgg,0,0,Һ,Һ,0
+sgg/A33.pose,de,sgg,0,0,здравствуйте,здравствуйте,0
+sgg/B33.pose,de,sgg,0,0,старый,старый,0
+sgg/C33.pose,de,sgg,0,0,шкаф,шкаф,0
+sgg/D33.pose,de,sgg,0,0,ЖАДНЫЙ,ЖАДНЫЙ,0
+sgg/E33.pose,de,sgg,0,0,компот,компот,0
+sgg/F33.pose,de,sgg,0,0,зелень,зелень,0
+sgg/G33.pose,de,sgg,0,0,обувь,обувь,0
+sgg/H33.pose,de,sgg,0,0,будние,будние,0
+sgg/I33.pose,de,sgg,0,0,планета земля,планета земля,0
+sgg/J33.pose,de,sgg,0,0,лошадь,лошадь,0
+sgg/K33.pose,de,sgg,0,0,плавание,плавание,0
+sgg/L33.pose,de,sgg,0,0,рынок,рынок,0
+sgg/M33.pose,de,sgg,0,0,литература,литература,0
+sgg/N33.pose,de,sgg,0,0,председатель,председатель,0
+sgg/O33.pose,de,sgg,0,0,испания,испания,0
+sgg/P33.pose,de,sgg,0,0,опыт,опыт,0
+sgg/R33.pose,de,sgg,0,0,КОЖА,КОЖА,0
+sgg/T33.pose,de,sgg,0,0,разные сережки и бусы,разные сережки и бусы,0
+sgg/U33.pose,de,sgg,0,0,Ц,Ц,0
+sgg/A34.pose,de,sgg,0,0,До свидания,До свидания,0
+sgg/B34.pose,de,sgg,0,0,молодой,молодой,0
+sgg/C34.pose,de,sgg,0,0,ноутбук,ноутбук,0
+sgg/D34.pose,de,sgg,0,0,ПРИВЫЧКА,ПРИВЫЧКА,0
+sgg/E34.pose,de,sgg,0,0,сливочное масло,сливочное масло,0
+sgg/F34.pose,de,sgg,0,0,поздний,поздний,0
+sgg/G34.pose,de,sgg,0,0,подошва,подошва,0
+sgg/H34.pose,de,sgg,0,0,иногда,иногда,0
+sgg/I34.pose,de,sgg,0,0,СОЛНЦЕ,СОЛНЦЕ,0
+sgg/J34.pose,de,sgg,0,0,мамонт,мамонт,0
+sgg/K34.pose,de,sgg,0,0,победа,победа,0
+sgg/L34.pose,de,sgg,0,0,столица,столица,0
+sgg/M34.pose,de,sgg,0,0,могу,могу,0
+sgg/N34.pose,de,sgg,0,0,президент,президент,0
+sgg/O34.pose,de,sgg,0,0,китай,китай,0
+sgg/P34.pose,de,sgg,0,0,ВОДОЛАЗ,ВОДОЛАЗ,0
+sgg/R34.pose,de,sgg,0,0,АНГИНА,АНГИНА,0
+sgg/T34.pose,de,sgg,0,0,макияж,макияж,0
+sgg/U34.pose,de,sgg,0,0,Ч,Ч,0
+sgg/A35.pose,de,sgg,0,0,приглашать,приглашать,0
+sgg/B35.pose,de,sgg,0,0,жить,жить,0
+sgg/C35.pose,de,sgg,0,0,компьютер,компьютер,0
+sgg/D35.pose,de,sgg,0,0,СЛАБОСЛЫШАЩИЙ,СЛАБОСЛЫШАЩИЙ,0
+sgg/E35.pose,de,sgg,0,0,молоко,молоко,0
+sgg/F35.pose,de,sgg,0,0,полезный,полезный,0
+sgg/G35.pose,de,sgg,0,0,сапоги,сапоги,0
+sgg/H35.pose,de,sgg,0,0,календарь,календарь,0
+sgg/I35.pose,de,sgg,0,0,КАПЛЯ,КАПЛЯ,0
+sgg/J35.pose,de,sgg,0,0,лягушка,лягушка,0
+sgg/K35.pose,de,sgg,0,0,проигрыш,проигрыш,0
+sgg/L35.pose,de,sgg,0,0,южная стлоица,южная стлоица,0
+sgg/M35.pose,de,sgg,0,0,читать,читать,0
+sgg/N35.pose,de,sgg,0,0,президиум,президиум,0
+sgg/O35.pose,de,sgg,0,0,италия,италия,0
+sgg/P35.pose,de,sgg,0,0,офицер,офицер,0
+sgg/R35.pose,de,sgg,0,0,ХИРУРГ,ХИРУРГ,0
+sgg/T35.pose,de,sgg,0,0,молодость,молодость,0
+sgg/U35.pose,de,sgg,0,0,Ш,Ш,0
+sgg/A36.pose,de,sgg,0,0,извиниться,извиниться,0
+sgg/B36.pose,de,sgg,0,0,смерть,смерть,0
+sgg/C36.pose,de,sgg,0,0,простынь,простынь,0
+sgg/D36.pose,de,sgg,0,0,НЕНАВИСТЬ,НЕНАВИСТЬ,0
+sgg/E36.pose,de,sgg,0,0,мука,мука,0
+sgg/F36.pose,de,sgg,0,0,разный,разный,0
+sgg/G36.pose,de,sgg,0,0,туфли,туфли,0
+sgg/H36.pose,de,sgg,0,0,недавно,недавно,0
+sgg/I36.pose,de,sgg,0,0,ЖАРКО,ЖАРКО,0
+sgg/J36.pose,de,sgg,0,0,медведь,медведь,0
+sgg/K36.pose,de,sgg,0,0,прыжки,прыжки,0
+sgg/L36.pose,de,sgg,0,0,столовая,столовая,0
+sgg/M36.pose,de,sgg,0,0,не дам,не дам,0
+sgg/N36.pose,de,sgg,0,0,,,0
+sgg/O36.pose,de,sgg,0,0,корея,корея,0
+sgg/P36.pose,de,sgg,0,0,пастух,пастух,0
+sgg/R36.pose,de,sgg,0,0,ТЕМПЕРАТУРА,ТЕМПЕРАТУРА,0
+sgg/T36.pose,de,sgg,0,0,здоровье,здоровье,0
+sgg/U36.pose,de,sgg,0,0,Щ,Щ,0
+sgg/A37.pose,de,sgg,0,0,пожалуйста,пожалуйста,0
+sgg/B37.pose,de,sgg,0,0,родиться,родиться,0
+sgg/C37.pose,de,sgg,0,0,наушники,наушники,0
+sgg/D37.pose,de,sgg,0,0,ВЛЮБЛЕННЫЙ,ВЛЮБЛЕННЫЙ,0
+sgg/E37.pose,de,sgg,0,0,мясо,мясо,0
+sgg/F37.pose,de,sgg,0,0,ранний,ранний,0
+sgg/G37.pose,de,sgg,0,0,цвет,цвет,0
+sgg/H37.pose,de,sgg,0,0,сейчас,сейчас,0
+sgg/I37.pose,de,sgg,0,0,ТЕПЛый,ТЕПЛый,0
+sgg/J37.pose,de,sgg,0,0,капкан,капкан,0
+sgg/K37.pose,de,sgg,0,0,путевка,путевка,0
+sgg/L37.pose,de,sgg,0,0,стоять,стоять,0
+sgg/M37.pose,de,sgg,0,0,не могу,не могу,0
+sgg/N37.pose,de,sgg,0,0,руководитель,руководитель,0
+sgg/O37.pose,de,sgg,0,0,норвегия,норвегия,0
+sgg/P37.pose,de,sgg,0,0,переводчик,переводчик,0
+sgg/R37.pose,de,sgg,0,0,АНАЛИЗ,АНАЛИЗ,0
+sgg/T37.pose,de,sgg,0,0,внешность,внешность,0
+sgg/U37.pose,de,sgg,0,0,Ъ,Ъ,0
+sgg/A38.pose,de,sgg,0,0,спасибо,спасибо,0
+sgg/B38.pose,de,sgg,0,0,умереть,умереть,0
+sgg/C38.pose,de,sgg,0,0,колонки,колонки,0
+sgg/D38.pose,de,sgg,0,0,удовольствие,удовольствие,0
+sgg/E38.pose,de,sgg,0,0,перец,перец,0
+sgg/F38.pose,de,sgg,0,0,редька,редька,0
+sgg/G38.pose,de,sgg,0,0,бежевый,бежевый,0
+sgg/H38.pose,de,sgg,0,0,опоздать,опоздать,0
+sgg/I38.pose,de,sgg,0,0,АТАКА,АТАКА,0
+sgg/J38.pose,de,sgg,0,0,муха,муха,0
+sgg/K38.pose,de,sgg,0,0,санки,санки,0
+sgg/L38.pose,de,sgg,0,0,театр,театр,0
+sgg/M38.pose,de,sgg,0,0,запомнить,запомнить,0
+sgg/N38.pose,de,sgg,0,0,страна,страна,0
+sgg/O38.pose,de,sgg,0,0,польша,польша,0
+sgg/P38.pose,de,sgg,0,0,повар,повар,0
+sgg/R38.pose,de,sgg,0,0,ЛЕЧЕНИЕ,ЛЕЧЕНИЕ,0
+sgg/T38.pose,de,sgg,0,0,лилово-синий,лилово-синий,0
+sgg/U38.pose,de,sgg,0,0,Ы,Ы,0
+sgg/A39.pose,de,sgg,0,0,знакомиться/ рад знакомству,знакомиться/ рад знакомству,0
+sgg/B39.pose,de,sgg,0,0,уважать,уважать,0
+sgg/C39.pose,de,sgg,0,0,клавиатура,клавиатура,0
+sgg/D39.pose,de,sgg,0,0,РАДОСТЬ,РАДОСТЬ,0
+sgg/E39.pose,de,sgg,0,0,печь,печь,0
+sgg/F39.pose,de,sgg,0,0,репа,репа,0
+sgg/G39.pose,de,sgg,0,0,белый,белый,0
+sgg/H39.pose,de,sgg,0,0,опять,опять,0
+sgg/I39.pose,de,sgg,0,0,засуха,засуха,0
+sgg/J39.pose,de,sgg,0,0,мышка,мышка,0
+sgg/K39.pose,de,sgg,0,0,сборная,сборная,0
+sgg/L39.pose,de,sgg,0,0,телезритель,телезритель,0
+sgg/M39.pose,de,sgg,0,0,оценка,оценка,0
+sgg/N39.pose,de,sgg,0,0,указ,указ,0
+sgg/O39.pose,de,sgg,0,0,румыния,румыния,0
+sgg/P39.pose,de,sgg,0,0,прибыль,прибыль,0
+sgg/R39.pose,de,sgg,0,0,ЛЕГКИЕ,ЛЕГКИЕ,0
+sgg/T39.pose,de,sgg,0,0,реплика -копия,реплика -копия,0
+sgg/U39.pose,de,sgg,0,0,І,І,0
+sgg/A40.pose,de,sgg,0,0,друг,друг,0
+sgg/B40.pose,de,sgg,0,0,толстый,толстый,0
+sgg/C40.pose,de,sgg,0,0,экран,экран,0
+sgg/D40.pose,de,sgg,0,0,ЛЕНИВЫЙ,ЛЕНИВЫЙ,0
+sgg/E40.pose,de,sgg,0,0,пиво,пиво,0
+sgg/F40.pose,de,sgg,0,0,свекла,свекла,0
+sgg/G40.pose,de,sgg,0,0,желтый,желтый,0
+sgg/H40.pose,de,sgg,0,0,после,после,0
+sgg/I40.pose,de,sgg,0,0,лесной пожар,лесной пожар,0
+sgg/J40.pose,de,sgg,0,0,овца,овца,0
+sgg/K40.pose,de,sgg,0,0,спорт,спорт,0
+sgg/L40.pose,de,sgg,0,0,таможня,таможня,0
+sgg/M40.pose,de,sgg,0,0,перемена,перемена,0
+sgg/N40.pose,de,sgg,0,0,ГРАЖДАНСТВО,ГРАЖДАНСТВО,0
+sgg/O40.pose,de,sgg,0,0,турция,турция,0
+sgg/P40.pose,de,sgg,0,0,приватизация,приватизация,0
+sgg/R40.pose,de,sgg,0,0,ПОСЕЩАТЬ,ПОСЕЩАТЬ,0
+sgg/T40.pose,de,sgg,0,0,популярный,популярный,0
+sgg/U40.pose,de,sgg,0,0,Ь,Ь,0
+sgg/A41.pose,de,sgg,0,0,господин,господин,0
+sgg/B41.pose,de,sgg,0,0,худой,худой,0
+sgg/C41.pose,de,sgg,0,0,подставка телефона,подставка телефона,0
+sgg/D41.pose,de,sgg,0,0,ЛЮБОВЬ,ЛЮБОВЬ,0
+sgg/E41.pose,de,sgg,0,0,продукты,продукты,0
+sgg/F41.pose,de,sgg,0,0,слива,слива,0
+sgg/G41.pose,de,sgg,0,0,зеленый,зеленый,0
+sgg/H41.pose,de,sgg,0,0,потом,потом,0
+sgg/I41.pose,de,sgg,0,0,солнечное затмение,солнечное затмение,0
+sgg/J41.pose,de,sgg,0,0,обезьяна,обезьяна,0
+sgg/K41.pose,de,sgg,0,0,балет,балет,0
+sgg/L41.pose,de,sgg,0,0,улица,улица,0
+sgg/M41.pose,de,sgg,0,0,поведение,поведение,0
+sgg/N41.pose,de,sgg,0,0,РЕЛИГИЯ,РЕЛИГИЯ,0
+sgg/O41.pose,de,sgg,0,0,финляндия,финляндия,0
+sgg/P41.pose,de,sgg,0,0,продавец,продавец,0
+sgg/T41.pose,de,sgg,0,0,кутюрье,кутюрье,0
+sgg/U41.pose,de,sgg,0,0,Э,Э,0
+sgg/A42.pose,de,sgg,0,0,фамилия,фамилия,0
+sgg/B42.pose,de,sgg,0,0,красивый,красивый,0
+sgg/C42.pose,de,sgg,0,0,мобильный телефон,мобильный телефон,0
+sgg/D42.pose,de,sgg,0,0,НАСТРОЕНИЕ,НАСТРОЕНИЕ,0
+sgg/E42.pose,de,sgg,0,0,рыба,рыба,0
+sgg/F42.pose,de,sgg,0,0,стебель,стебель,0
+sgg/G42.pose,de,sgg,0,0,золотой,золотой,0
+sgg/H42.pose,de,sgg,0,0,регулярно,регулярно,0
+sgg/I42.pose,de,sgg,0,0,загрязнение воздуха,загрязнение воздуха,0
+sgg/J42.pose,de,sgg,0,0,нора,нора,0
+sgg/K42.pose,de,sgg,0,0,соревнование,соревнование,0
+sgg/L42.pose,de,sgg,0,0,толпа,толпа,0
+sgg/M42.pose,de,sgg,0,0,правило,правило,0
+sgg/N42.pose,de,sgg,0,0,ЕКИБАСТУЗ,ЕКИБАСТУЗ,0
+sgg/O42.pose,de,sgg,0,0,франция,франция,0
+sgg/P42.pose,de,sgg,0,0,платить,платить,0
+sgg/R42.pose,de,sgg,0,0,РЕНТГЕН,РЕНТГЕН,0
+sgg/T42.pose,de,sgg,0,0,модель,модель,0
+sgg/U42.pose,de,sgg,0,0,Ю,Ю,0
+sgg/A43.pose,de,sgg,0,0,имя,имя,0
+sgg/B43.pose,de,sgg,0,0,некрасивый,некрасивый,0
+sgg/C43.pose,de,sgg,0,0,планшет,планшет,0
+sgg/D43.pose,de,sgg,0,0,НЕРВНЫЙ,НЕРВНЫЙ,0
+sgg/E43.pose,de,sgg,0,0,сахар,сахар,0
+sgg/F43.pose,de,sgg,0,0,трава,трава,0
+sgg/G43.pose,de,sgg,0,0,коричневый,коричневый,0
+sgg/H43.pose,de,sgg,0,0,следующий,следующий,0
+sgg/I43.pose,de,sgg,0,0,землетрясение,землетрясение,0
+sgg/J43.pose,de,sgg,0,0,олень,олень,0
+sgg/K43.pose,de,sgg,0,0,стадион,стадион,0
+sgg/L43.pose,de,sgg,0,0,центр,центр,0
+sgg/M43.pose,de,sgg,0,0,предложение,предложение,0
+sgg/N43.pose,de,sgg,0,0,СТЕПНОГОРСК,СТЕПНОГОРСК,0
+sgg/O43.pose,de,sgg,0,0,чехия,чехия,0
+sgg/P43.pose,de,sgg,0,0,продать,продать,0
+sgg/R43.pose,de,sgg,0,0,одышка,одышка,0
+sgg/T43.pose,de,sgg,0,0,показ моды,показ моды,0
+sgg/U43.pose,de,sgg,0,0,Я,Я,0
+sgg/A44.pose,de,sgg,0,0,отчество,отчество,0
+sgg/B44.pose,de,sgg,0,0,бедный,бедный,0
+sgg/C44.pose,de,sgg,0,0,кассета,кассета,0
+sgg/D44.pose,de,sgg,0,0,ОБИДНО,ОБИДНО,0
+sgg/E44.pose,de,sgg,0,0,свежий,свежий,0
+sgg/F44.pose,de,sgg,0,0,тыква,тыква,0
+sgg/G44.pose,de,sgg,0,0,красный,красный,0
+sgg/H44.pose,de,sgg,0,0,точный,точный,0
+sgg/I44.pose,de,sgg,0,0,огонь,огонь,0
+sgg/J44.pose,de,sgg,0,0,осел,осел,0
+sgg/K44.pose,de,sgg,0,0,старт,старт,0
+sgg/L44.pose,de,sgg,0,0,штраф,штраф,0
+sgg/M44.pose,de,sgg,0,0,развитие речи,развитие речи,0
+sgg/N44.pose,de,sgg,0,0,АРКАЛЫК,АРКАЛЫК,0
+sgg/O44.pose,de,sgg,0,0,швейцария,швейцария,0
+sgg/P44.pose,de,sgg,0,0,производство,производство,0
+sgg/R44.pose,de,sgg,0,0,бешеный,бешеный,0
+sgg/T44.pose,de,sgg,0,0,сверх модный,сверх модный,0
+sgg/A45.pose,de,sgg,0,0,жестовое имя,жестовое имя,0
+sgg/B45.pose,de,sgg,0,0,богатый,богатый,0
+sgg/C45.pose,de,sgg,0,0,будильник,будильник,0
+sgg/D45.pose,de,sgg,0,0,ВЕЖЛИВЫЙ,ВЕЖЛИВЫЙ,0
+sgg/E45.pose,de,sgg,0,0,сметана,сметана,0
+sgg/F45.pose,de,sgg,0,0,фрукты,фрукты,0
+sgg/G45.pose,de,sgg,0,0,розовый,розовый,0
+sgg/H45.pose,de,sgg,0,0,число,число,0
+sgg/I45.pose,de,sgg,0,0,вулкан,вулкан,0
+sgg/J45.pose,de,sgg,0,0,паук,паук,0
+sgg/K45.pose,de,sgg,0,0,теннис,теннис,0
+sgg/L45.pose,de,sgg,0,0,налог,налог,0
+sgg/M45.pose,de,sgg,0,0,расписание,расписание,0
+sgg/N45.pose,de,sgg,0,0,КОСТАНАЙ,КОСТАНАЙ,0
+sgg/O45.pose,de,sgg,0,0,швеция,швеция,0
+sgg/P45.pose,de,sgg,0,0,профессия,профессия,0
+sgg/R45.pose,de,sgg,0,0,слабоумный,слабоумный,0
+sgg/T45.pose,de,sgg,0,0,без рисунка,без рисунка,0
+sgg/A46.pose,de,sgg,0,0,почему,почему,0
+sgg/B46.pose,de,sgg,0,0,счастье,счастье,0
+sgg/C46.pose,de,sgg,0,0,пакет,пакет,0
+sgg/D46.pose,de,sgg,0,0,ГОРДЫЙ,ГОРДЫЙ,0
+sgg/E46.pose,de,sgg,0,0,соль,соль,0
+sgg/F46.pose,de,sgg,0,0,цветок,цветок,0
+sgg/G46.pose,de,sgg,0,0,рыжий,рыжий,0
+sgg/H46.pose,de,sgg,0,0,зима,зима,0
+sgg/I46.pose,de,sgg,0,0,закат,закат,0
+sgg/J46.pose,de,sgg,0,0,петух,петух,0
+sgg/K46.pose,de,sgg,0,0,ВЕДУЩИЙ,ВЕДУЩИЙ,0
+sgg/L46.pose,de,sgg,0,0,трамвай,трамвай,0
+sgg/M46.pose,de,sgg,0,0,рассказ,рассказ,0
+sgg/N46.pose,de,sgg,0,0,УРАЛЬСК,УРАЛЬСК,0
+sgg/O46.pose,de,sgg,0,0,япония,япония,0
+sgg/P46.pose,de,sgg,0,0,не надо,не надо,0
+sgg/R46.pose,de,sgg,0,0,небрежность,небрежность,0
+sgg/T46.pose,de,sgg,0,0,полосатая рубашка,полосатая рубашка,0
+sgg/A47.pose,de,sgg,0,0,ЧЕЙ,ЧЕЙ,0
+sgg/B47.pose,de,sgg,0,0,несчастье,несчастье,0
+sgg/C47.pose,de,sgg,0,0,кабельное тв,кабельное тв,0
+sgg/D47.pose,de,sgg,0,0,ПОКОЙ,ПОКОЙ,0
+sgg/E47.pose,de,sgg,0,0,суп,суп,0
+sgg/F47.pose,de,sgg,0,0,чеснок,чеснок,0
+sgg/G47.pose,de,sgg,0,0,серебрянный,серебрянный,0
+sgg/H47.pose,de,sgg,0,0,через два года,через два года,0
+sgg/I47.pose,de,sgg,0,0,наводнение,наводнение,0
+sgg/J47.pose,de,sgg,0,0,ползать,ползать,0
+sgg/K47.pose,de,sgg,0,0,брать,брать,0
+sgg/L47.pose,de,sgg,0,0,троллейбус,троллейбус,0
+sgg/M47.pose,de,sgg,0,0,ручка,ручка,0
+sgg/N47.pose,de,sgg,0,0,ВЛАСТЬ,ВЛАСТЬ,0
+sgg/O47.pose,de,sgg,0,0,аргентина,аргентина,0
+sgg/P47.pose,de,sgg,0,0,рабочий,рабочий,0
+sgg/R47.pose,de,sgg,0,0,отдышка,отдышка,0
+sgg/T47.pose,de,sgg,0,0,БЛЕСТЯЩИЙ,БЛЕСТЯЩИЙ,0
+sgg/A48.pose,de,sgg,0,0,ХОББИ,ХОББИ,0
+sgg/B48.pose,de,sgg,0,0,ДЕНЬ РОЖДЕНИЯ,ДЕНЬ РОЖДЕНИЯ,0
+sgg/C48.pose,de,sgg,0,0,ДАСТАРХАН,ДАСТАРХАН,0
+sgg/D48.pose,de,sgg,0,0,ГРУСТНЫЙ,ГРУСТНЫЙ,0
+sgg/E48.pose,de,sgg,0,0,сыр,сыр,0
+sgg/F48.pose,de,sgg,0,0,чистый,чистый,0
+sgg/G48.pose,de,sgg,0,0,серый,серый,0
+sgg/H48.pose,de,sgg,0,0,час,час,0
+sgg/I48.pose,de,sgg,0,0,рассвет,рассвет,0
+sgg/J48.pose,de,sgg,0,0,птенец,птенец,0
+sgg/K48.pose,de,sgg,0,0,кидать,кидать,0
+sgg/L48.pose,de,sgg,0,0,химчистка,химчистка,0
+sgg/M48.pose,de,sgg,0,0,сидеть,сидеть,0
+sgg/N48.pose,de,sgg,0,0,государственная граница,государственная граница,0
+sgg/O48.pose,de,sgg,0,0,иордания,иордания,0
+sgg/P48.pose,de,sgg,0,0,расходы,расходы,0
+sgg/R48.pose,de,sgg,0,0,ВЗДОХ,ВЗДОХ,0
+sgg/T48.pose,de,sgg,0,0,однотонный,однотонный,0
+sgg/A49.pose,de,sgg,0,0,НОМЕР ТЕЛЕФОНА,НОМЕР ТЕЛЕФОНА,0
+sgg/B49.pose,de,sgg,0,0,ЛЮБОВНИК,ЛЮБОВНИК,0
+sgg/C49.pose,de,sgg,0,0,БРИТВА,БРИТВА,0
+sgg/D49.pose,de,sgg,0,0,СТЫД,СТЫД,0
+sgg/E49.pose,de,sgg,0,0,творог,творог,0
+sgg/F49.pose,de,sgg,0,0,яблоко,яблоко,0
+sgg/G49.pose,de,sgg,0,0,синий,синий,0
+sgg/H49.pose,de,sgg,0,0,будет,будет,0
+sgg/I49.pose,de,sgg,0,0,запад,запад,0
+sgg/J49.pose,de,sgg,0,0,птица,птица,0
+sgg/K49.pose,de,sgg,0,0,фехтование,фехтование,0
+sgg/L49.pose,de,sgg,0,0,проишествие,проишествие,0
+sgg/M49.pose,de,sgg,0,0,сказка,сказка,0
+sgg/N49.pose,de,sgg,0,0,государственная земля,государственная земля,0
+sgg/O49.pose,de,sgg,0,0,ЕВРОПА,ЕВРОПА,0
+sgg/P49.pose,de,sgg,0,0,режиссер,режиссер,0
+sgg/R49.pose,de,sgg,0,0,больница,больница,0
+sgg/T49.pose,de,sgg,0,0,одноцветный,одноцветный,0
+sgg/A50.pose,de,sgg,0,0,СВИДАНИЕ,СВИДАНИЕ,0
+sgg/B50.pose,de,sgg,0,0,ПОДДЕРЖКА,ПОДДЕРЖКА,0
+sgg/C50.pose,de,sgg,0,0,BEHOK,BEHOK,0
+sgg/D50.pose,de,sgg,0,0,ШОК,ШОК,0
+sgg/E50.pose,de,sgg,0,0,хлеб,хлеб,0
+sgg/F50.pose,de,sgg,0,0,ягода,ягода,0
+sgg/G50.pose,de,sgg,0,0,фиолетовый,фиолетовый,0
+sgg/H50.pose,de,sgg,0,0,точно,точно,0
+sgg/I50.pose,de,sgg,0,0,восток,восток,0
+sgg/J50.pose,de,sgg,0,0,пчела,пчела,0
+sgg/K50.pose,de,sgg,0,0,хоккей,хоккей,0
+sgg/L50.pose,de,sgg,0,0,ЭЛЕКТРОННАЯ ПОЧТА,ЭЛЕКТРОННАЯ ПОЧТА,0
+sgg/M50.pose,de,sgg,0,0,слово,слово,0
+sgg/N50.pose,de,sgg,0,0,решать проблему,решать проблему,0
+sgg/O50.pose,de,sgg,0,0,БАКУ,БАКУ,0
+sgg/P50.pose,de,sgg,0,0,ремонтник,ремонтник,0
+sgg/R50.pose,de,sgg,0,0,болезнь,болезнь,0
+sgg/T50.pose,de,sgg,0,0,старомодный,старомодный,0
+sgg/A51.pose,de,sgg,0,0,ВОЗРАСТ,ВОЗРАСТ,0
+sgg/B51.pose,de,sgg,0,0,СТРАХ,СТРАХ,0
+sgg/C51.pose,de,sgg,0,0,ВЕРЁВКА,ВЕРЁВКА,0
+sgg/D51.pose,de,sgg,0,0,ПРОСТОЙ,ПРОСТОЙ,0
+sgg/E51.pose,de,sgg,0,0,чай,чай,0
+sgg/F51.pose,de,sgg,0,0,ВОНЮЧИЙ,ВОНЮЧИЙ,0
+sgg/G51.pose,de,sgg,0,0,черный,черный,0
+sgg/H51.pose,de,sgg,0,0,осень,осень,0
+sgg/I51.pose,de,sgg,0,0,север,север,0
+sgg/J51.pose,de,sgg,0,0,свинья,свинья,0
+sgg/K51.pose,de,sgg,0,0,финиш,финиш,0
+sgg/L51.pose,de,sgg,0,0,ВОД ПРАВА,ВОД ПРАВА,0
+sgg/M51.pose,de,sgg,0,0,слуховой аппарат,слуховой аппарат,0
+sgg/N51.pose,de,sgg,0,0,показать полностью,показать полностью,0
+sgg/O51.pose,de,sgg,0,0,СИБИРЬ,СИБИРЬ,0
+sgg/P51.pose,de,sgg,0,0,сапожник,сапожник,0
+sgg/R51.pose,de,sgg,0,0,БРОНХИТ,БРОНХИТ,0
+sgg/T51.pose,de,sgg,0,0,официальный,официальный,0
+sgg/A52.pose,de,sgg,0,0,вы,вы,0
+sgg/B52.pose,de,sgg,0,0,ВЕС,ВЕС,0
+sgg/C52.pose,de,sgg,0,0,ВЕРТЕЛ,ВЕРТЕЛ,0
+sgg/D52.pose,de,sgg,0,0,СПАТЬ,СПАТЬ,0
+sgg/E52.pose,de,sgg,0,0,яйцо,яйцо,0
+sgg/F52.pose,de,sgg,0,0,закопать,закопать,0
+sgg/G52.pose,de,sgg,0,0,аккуратно,аккуратно,0
+sgg/H52.pose,de,sgg,0,0,ПОСТЕПЕННО,ПОСТЕПЕННО,0
+sgg/I52.pose,de,sgg,0,0,юг,юг,0
+sgg/J52.pose,de,sgg,0,0,слон,слон,0
+sgg/K52.pose,de,sgg,0,0,футбол,футбол,0
+sgg/L52.pose,de,sgg,0,0,ПРЯМО,ПРЯМО,0
+sgg/M52.pose,de,sgg,0,0,презентация,презентация,0
+sgg/N52.pose,de,sgg,0,0,общество людей,общество людей,0
+sgg/P52.pose,de,sgg,0,0,свой,свой,0
+sgg/R52.pose,de,sgg,0,0,здоровый,здоровый,0
+sgg/T52.pose,de,sgg,0,0,стиль,стиль,0
+sgg/A53.pose,de,sgg,0,0,ХОРОШО,ХОРОШО,0
+sgg/B53.pose,de,sgg,0,0,клятва,клятва,0
+sgg/C53.pose,de,sgg,0,0,ГВОЗДЬ,ГВОЗДЬ,0
+sgg/D53.pose,de,sgg,0,0,УЛЫБКА,УЛЫБКА,0
+sgg/E53.pose,de,sgg,0,0,ЯИЧНИЦА,ЯИЧНИЦА,0
+sgg/F53.pose,de,sgg,0,0,ВИШНЯ,ВИШНЯ,0
+sgg/G53.pose,de,sgg,0,0,велико,велико,0
+sgg/H53.pose,de,sgg,0,0,еще раз,еще раз,0
+sgg/I53.pose,de,sgg,0,0,заповедник,заповедник,0
+sgg/J53.pose,de,sgg,0,0,собака,собака,0
+sgg/K53.pose,de,sgg,0,0,чемпион,чемпион,0
+sgg/L53.pose,de,sgg,0,0,СКОРАЯ ПОМОЩЬ,СКОРАЯ ПОМОЩЬ,0
+sgg/M53.pose,de,sgg,0,0,смотреть,смотреть,0
+sgg/N53.pose,de,sgg,0,0,Байконур,Байконур,0
+sgg/P53.pose,de,sgg,0,0,слесарь,слесарь,0
+sgg/R53.pose,de,sgg,0,0,иглотерапия,иглотерапия,0
+sgg/T53.pose,de,sgg,0,0,элегантный,элегантный,0
+sgg/A54.pose,de,sgg,0,0,ПЛОХО,ПЛОХО,0
+sgg/B54.pose,de,sgg,0,0,ЗЛОЙ,ЗЛОЙ,0
+sgg/C54.pose,de,sgg,0,0,ГАРДЕРОБ,ГАРДЕРОБ,0
+sgg/D54.pose,de,sgg,0,0,СТРАННЫЙ,СТРАННЫЙ,0
+sgg/E54.pose,de,sgg,0,0,ГРЕЧНЕВАЯ,ГРЕЧНЕВАЯ,0
+sgg/F54.pose,de,sgg,0,0,ВИНО,ВИНО,0
+sgg/G54.pose,de,sgg,0,0,вешать,вешать,0
+sgg/H54.pose,de,sgg,0,0,январь,январь,0
+sgg/I54.pose,de,sgg,0,0,зола,зола,0
+sgg/J54.pose,de,sgg,0,0,тигр,тигр,0
+sgg/K54.pose,de,sgg,0,0,ходить,ходить,0
+sgg/L54.pose,de,sgg,0,0,ОСТОРОЖНО,ОСТОРОЖНО,0
+sgg/M54.pose,de,sgg,0,0,собрание,собрание,0
+sgg/N54.pose,de,sgg,0,0,отдать голос,отдать голос,0
+sgg/P54.pose,de,sgg,0,0,служащий,служащий,0
+sgg/R54.pose,de,sgg,0,0,койка,койка,0
+sgg/T54.pose,de,sgg,0,0,дизайн,дизайн,0
+sgg/A55.pose,de,sgg,0,0,ВЗАИМНОСТЬ,ВЗАИМНОСТЬ,0
+sgg/B55.pose,de,sgg,0,0,подруга,подруга,0
+sgg/C55.pose,de,sgg,0,0,гараж,гараж,0
+sgg/D55.pose,de,sgg,0,0,СТРОГИЙ,СТРОГИЙ,0
+sgg/E55.pose,de,sgg,0,0,МАННАЯ,МАННАЯ,0
+sgg/G55.pose,de,sgg,0,0,вязать,вязать,0
+sgg/H55.pose,de,sgg,0,0,февраль,февраль,0
+sgg/I55.pose,de,sgg,0,0,ВЛАЖНОСТЬ,ВЛАЖНОСТЬ,0
+sgg/J55.pose,de,sgg,0,0,утка,утка,0
+sgg/K55.pose,de,sgg,0,0,шахматы,шахматы,0
+sgg/L55.pose,de,sgg,0,0,ОТКРЫТО,ОТКРЫТО,0
+sgg/M55.pose,de,sgg,0,0,ПЕРЕПИСЫВАТЬ,ПЕРЕПИСЫВАТЬ,0
+sgg/N55.pose,de,sgg,0,0,выборы в депутаты,выборы в депутаты,0
+sgg/P55.pose,de,sgg,0,0,государственный служащий,государственный служащий,0
+sgg/R55.pose,de,sgg,0,0,анализ крови,анализ крови,0
+sgg/T55.pose,de,sgg,0,0,дизайнер,дизайнер,0
+sgg/A56.pose,de,sgg,0,0,вдвоем,вдвоем,0
+sgg/B56.pose,de,sgg,0,0,сноха,сноха,0
+sgg/C56.pose,de,sgg,0,0,занавесь,занавесь,0
+sgg/D56.pose,de,sgg,0,0,УСТАЛЫЙ,УСТАЛЫЙ,0
+sgg/E56.pose,de,sgg,0,0,КОТЛЕТА,КОТЛЕТА,0
+sgg/G56.pose,de,sgg,0,0,гладить,гладить,0
+sgg/H56.pose,de,sgg,0,0,март,март,0
+sgg/I56.pose,de,sgg,0,0,ВОДОВОРОТ,ВОДОВОРОТ,0
+sgg/J56.pose,de,sgg,0,0,червь,червь,0
+sgg/K56.pose,de,sgg,0,0,шашки,шашки,0
+sgg/L56.pose,de,sgg,0,0,УНИВЕРСИТЕТ,УНИВЕРСИТЕТ,0
+sgg/M56.pose,de,sgg,0,0,стихотворение,стихотворение,0
+sgg/N56.pose,de,sgg,0,0,переизбрать,переизбрать,0
+sgg/P56.pose,de,sgg,0,0,собственник,собственник,0
+sgg/R56.pose,de,sgg,0,0,АБОРТ,АБОРТ,0
+sgg/T56.pose,de,sgg,0,0,сегодня в моде,сегодня в моде,0
+sgg/A57.pose,de,sgg,0,0,вдвойне,вдвойне,0
+sgg/B57.pose,de,sgg,0,0,дальний родстенник,дальний родстенник,0
+sgg/C57.pose,de,sgg,0,0,игрушка,игрушка,0
+sgg/D57.pose,de,sgg,0,0,НРАВИТЬСЯ,НРАВИТЬСЯ,0
+sgg/E57.pose,de,sgg,0,0,ЛЮБИМАЯ ЕДА,ЛЮБИМАЯ ЕДА,0
+sgg/G57.pose,de,sgg,0,0,длинный,длинный,0
+sgg/H57.pose,de,sgg,0,0,апрель,апрель,0
+sgg/I57.pose,de,sgg,0,0,ВОДОПАД,ВОДОПАД,0
+sgg/J57.pose,de,sgg,0,0,буйвол,буйвол,0
+sgg/K57.pose,de,sgg,0,0,шайба,шайба,0
+sgg/L57.pose,de,sgg,0,0,ЖДАТЬ,ЖДАТЬ,0
+sgg/M57.pose,de,sgg,0,0,тема,тема,0
+sgg/N57.pose,de,sgg,0,0,капиталистическое общество,капиталистическое общество,0
+sgg/P57.pose,de,sgg,0,0,солдат,солдат,0
+sgg/T57.pose,de,sgg,0,0,мода,мода,0
+sgg/A58.pose,de,sgg,0,0,ВСЕ,ВСЕ,0
+sgg/B58.pose,de,sgg,0,0,двоюродная сестра,двоюродная сестра,0
+sgg/C58.pose,de,sgg,0,0,кондиционер,кондиционер,0
+sgg/D58.pose,de,sgg,0,0,ПУГАТЬ,ПУГАТЬ,0
+sgg/E58.pose,de,sgg,0,0,СОСИСКИ,СОСИСКИ,0
+sgg/G58.pose,de,sgg,0,0,короткий,короткий,0
+sgg/H58.pose,de,sgg,0,0,май,май,0
+sgg/I58.pose,de,sgg,0,0,воздух,воздух,0
+sgg/J58.pose,de,sgg,0,0,ВСЕЯДНыЙ,ВСЕЯДНыЙ,0
+sgg/K58.pose,de,sgg,0,0,ТРЕНЕР,ТРЕНЕР,0
+sgg/L58.pose,de,sgg,0,0,пограничная застава,пограничная застава,0
+sgg/M58.pose,de,sgg,0,0,тетрадь,тетрадь,0
+sgg/N58.pose,de,sgg,0,0,мнения общества,мнения общества,0
+sgg/P58.pose,de,sgg,0,0,стоимость,стоимость,0
+sgg/T58.pose,de,sgg,0,0,кофта к юбке подходит,кофта к юбке подходит,0
+sgg/A59.pose,de,sgg,0,0,BMECTO,BMECTO,0
+sgg/B59.pose,de,sgg,0,0,двоюродный брат,двоюродный брат,0
+sgg/C59.pose,de,sgg,0,0,клеить,клеить,0
+sgg/D59.pose,de,sgg,0,0,СИЛЬНЫЙ,СИЛЬНЫЙ,0
+sgg/E59.pose,de,sgg,0,0,горячий,горячий,0
+sgg/G59.pose,de,sgg,0,0,сократить,сократить,0
+sgg/H59.pose,de,sgg,0,0,июнь,июнь,0
+sgg/I59.pose,de,sgg,0,0,воздушный,воздушный,0
+sgg/K59.pose,de,sgg,0,0,МЕДАЛЬ,МЕДАЛЬ,0
+sgg/L59.pose,de,sgg,0,0,пограничная зона,пограничная зона,0
+sgg/M59.pose,de,sgg,0,0,урок,урок,0
+sgg/N59.pose,de,sgg,0,0,основная проблема,основная проблема,0
+sgg/P59.pose,de,sgg,0,0,ВЛАДЕЛЕЦ,ВЛАДЕЛЕЦ,0
+sgg/T59.pose,de,sgg,0,0,лицо,лицо,0
+sgg/A60.pose,de,sgg,0,0,ВНУТРИ,ВНУТРИ,0
+sgg/B60.pose,de,sgg,0,0,близкий родственник,близкий родственник,0
+sgg/C60.pose,de,sgg,0,0,СТОЛ,СТОЛ,0
+sgg/D60.pose,de,sgg,0,0,ДОВЕРЯТЬ,ДОВЕРЯТЬ,0
+sgg/E60.pose,de,sgg,0,0,РЕЦЕПТ,РЕЦЕПТ,0
+sgg/G60.pose,de,sgg,0,0,примерка,примерка,0
+sgg/H60.pose,de,sgg,0,0,июль,июль,0
+sgg/I60.pose,de,sgg,0,0,ВСПЫШКА,ВСПЫШКА,0
+sgg/K60.pose,de,sgg,0,0,КУБОК,КУБОК,0
+sgg/L60.pose,de,sgg,0,0,нет возможности,нет возможности,0
+sgg/M60.pose,de,sgg,0,0,четверть,четверть,0
+sgg/N60.pose,de,sgg,0,0,выборы в парламент,выборы в парламент,0
+sgg/P60.pose,de,sgg,0,0,сторож,сторож,0
+sgg/T60.pose,de,sgg,0,0,дом моды,дом моды,0
+sgg/A61.pose,de,sgg,0,0,ВНАЧАЛЕ,ВНАЧАЛЕ,0
+sgg/B61.pose,de,sgg,0,0,свояк,свояк,0
+sgg/C61.pose,de,sgg,0,0,СТУЛ,СТУЛ,0
+sgg/D61.pose,de,sgg,0,0,ГРУБЫЙ,ГРУБЫЙ,0
+sgg/E61.pose,de,sgg,0,0,ПИТАНИЕ,ПИТАНИЕ,0
+sgg/G61.pose,de,sgg,0,0,порвать,порвать,0
+sgg/H61.pose,de,sgg,0,0,август,август,0
+sgg/I61.pose,de,sgg,0,0,ХОЛОДНЫЙ,ХОЛОДНЫЙ,0
+sgg/K61.pose,de,sgg,0,0,НАГРАДА,НАГРАДА,0
+sgg/L61.pose,de,sgg,0,0,самолет,самолет,0
+sgg/M61.pose,de,sgg,0,0,ПОНИМАТЬ,ПОНИМАТЬ,0
+sgg/N61.pose,de,sgg,0,0,правило выбора,правило выбора,0
+sgg/P61.pose,de,sgg,0,0,считать,считать,0
+sgg/T61.pose,de,sgg,0,0,модный бутик,модный бутик,0
+sgg/A62.pose,de,sgg,0,0,ВО-ВО,ВО-ВО,0
+sgg/B62.pose,de,sgg,0,0,шілдехана,шілдехана,0
+sgg/C62.pose,de,sgg,0,0,ТАБУРЕТКА,ТАБУРЕТКА,0
+sgg/D62.pose,de,sgg,0,0,СМЕШНО,СМЕШНО,0
+sgg/E62.pose,de,sgg,0,0,шелпек,шелпек,0
+sgg/G62.pose,de,sgg,0,0,рвать,рвать,0
+sgg/H62.pose,de,sgg,0,0,сентябрь,сентябрь,0
+sgg/K62.pose,de,sgg,0,0,ГИМНАСТИКА,ГИМНАСТИКА,0
+sgg/L62.pose,de,sgg,0,0,пляж,пляж,0
+sgg/M62.pose,de,sgg,0,0,учитель,учитель,0
+sgg/N62.pose,de,sgg,0,0,избитательная система,избитательная система,0
+sgg/P62.pose,de,sgg,0,0,товары,товары,0
+sgg/T62.pose,de,sgg,0,0,косметичка,косметичка,0
+sgg/A63.pose,de,sgg,0,0,ВОВРЕМЯ,ВОВРЕМЯ,0
+sgg/B63.pose,de,sgg,0,0,бесік той,бесік той,0
+sgg/D63.pose,de,sgg,0,0,ХОТЕТЬ,ХОТЕТЬ,0
+sgg/E63.pose,de,sgg,0,0,қазы,қазы,0
+sgg/G63.pose,de,sgg,0,0,стирать,стирать,0
+sgg/H63.pose,de,sgg,0,0,октябрь,октябрь,0
+sgg/K63.pose,de,sgg,0,0,БОРОТЬСЯ,БОРОТЬСЯ,0
+sgg/L63.pose,de,sgg,0,0,пляжный сезон,пляжный сезон,0
+sgg/M63.pose,de,sgg,0,0,школа,школа,0
+sgg/N63.pose,de,sgg,0,0,избитательная комиссия,избитательная комиссия,0
+sgg/P63.pose,de,sgg,0,0,фабрика,фабрика,0
+sgg/T63.pose,de,sgg,0,0,косметика,косметика,0
+sgg/A64.pose,de,sgg,0,0,BOBCE,BOBCE,0
+sgg/B64.pose,de,sgg,0,0,тұсаукесер,тұсаукесер,0
+sgg/D64.pose,de,sgg,0,0,вдохновение,вдохновение,0
+sgg/E64.pose,de,sgg,0,0,жент,жент,0
+sgg/G64.pose,de,sgg,0,0,тесно,тесно,0
+sgg/H64.pose,de,sgg,0,0,ноябрь,ноябрь,0
+sgg/K64.pose,de,sgg,0,0,ПРИНУЖДАТЬ,ПРИНУЖДАТЬ,0
+sgg/L64.pose,de,sgg,0,0,ПОЛЕТ,ПОЛЕТ,0
+sgg/M64.pose,de,sgg,0,0,пальцевая азбука,пальцевая азбука,0
+sgg/N64.pose,de,sgg,0,0,нападение,нападение,0
+sgg/P64.pose,de,sgg,0,0,фирма,фирма,0
+sgg/T64.pose,de,sgg,0,0,коса,коса,0
+sgg/A65.pose,de,sgg,0,0,ВОВСЮ,ВОВСЮ,0
+sgg/B65.pose,de,sgg,0,0,шілдехана,шілдехана,0
+sgg/D65.pose,de,sgg,0,0,ВДРУГ,ВДРУГ,0
+sgg/E65.pose,de,sgg,0,0,бауырсақ,бауырсақ,0
+sgg/G65.pose,de,sgg,0,0,чистить,чистить,0
+sgg/H65.pose,de,sgg,0,0,декабрь,декабрь,0
+sgg/K65.pose,de,sgg,0,0,барабан,барабан,0
+sgg/L65.pose,de,sgg,0,0,шведский стол,шведский стол,0
+sgg/M65.pose,de,sgg,0,0,наука,наука,0
+sgg/N65.pose,de,sgg,0,0,ВРЕД,ВРЕД,0
+sgg/P65.pose,de,sgg,0,0,фотограф,фотограф,0
+sgg/T65.pose,de,sgg,0,0,косынка,косынка,0
+sgg/A66.pose,de,sgg,0,0,ВО-ВТОРЫХ,ВО-ВТОРЫХ,0
+sgg/B66.pose,de,sgg,0,0,беташар,беташар,0
+sgg/D66.pose,de,sgg,0,0,ВНЕЗАПНО,ВНЕЗАПНО,0
+sgg/E66.pose,de,sgg,0,0,бешбармақ,бешбармақ,0
+sgg/G66.pose,de,sgg,0,0,шить,шить,0
+sgg/H66.pose,de,sgg,0,0,понедельник,понедельник,0
+sgg/K66.pose,de,sgg,0,0,мультфильм,мультфильм,0
+sgg/L66.pose,de,sgg,0,0,ПОЙМАТЬ,ПОЙМАТЬ,0
+sgg/M66.pose,de,sgg,0,0,наука технологии,наука технологии,0
+sgg/N66.pose,de,sgg,0,0,СВИДЕТЕЛЬ,СВИДЕТЕЛЬ,0
+sgg/P66.pose,de,sgg,0,0,хозяин,хозяин,0
+sgg/T66.pose,de,sgg,0,0,борода,борода,0
+sgg/A67.pose,de,sgg,0,0,ВОДОЛЕЙ,ВОДОЛЕЙ,0
+sgg/B67.pose,de,sgg,0,0,ұзату (проводы невесты),ұзату (проводы невесты),0
+sgg/D67.pose,de,sgg,0,0,ВДУМАТЬСЯ,ВДУМАТЬСЯ,0
+sgg/E67.pose,de,sgg,0,0,ВЫПЕЧКА,ВЫПЕЧКА,0
+sgg/G67.pose,de,sgg,0,0,штопать,штопать,0
+sgg/H67.pose,de,sgg,0,0,вторник,вторник,0
+sgg/K67.pose,de,sgg,0,0,детективный фильм,детективный фильм,0
+sgg/L67.pose,de,sgg,0,0,СТРАХОВКА,СТРАХОВКА,0
+sgg/M67.pose,de,sgg,0,0,награждать,награждать,0
+sgg/N67.pose,de,sgg,0,0,Преступник,Преступник,0
+sgg/P67.pose,de,sgg,0,0,художник,художник,0
+sgg/A68.pose,de,sgg,0,0,ВПЯТЕРОМ,ВПЯТЕРОМ,0
+sgg/B68.pose,de,sgg,0,0,көрімдік беру,көрімдік беру,0
+sgg/D68.pose,de,sgg,0,0,ВЕКОВОЙ,ВЕКОВОЙ,0
+sgg/E68.pose,de,sgg,0,0,вафельница,вафельница,0
+sgg/G68.pose,de,sgg,0,0,голубой,голубой,0
+sgg/H68.pose,de,sgg,0,0,среда,среда,0
+sgg/K68.pose,de,sgg,0,0,документальный фильм,документальный фильм,0
+sgg/L68.pose,de,sgg,0,0,ТУРАГЕНТСТВО,ТУРАГЕНТСТВО,0
+sgg/M68.pose,de,sgg,0,0,хвалить,хвалить,0
+sgg/N68.pose,de,sgg,0,0,амнистия,амнистия,0
+sgg/P68.pose,de,sgg,0,0,чертежник,чертежник,0
+sgg/A69.pose,de,sgg,0,0,ВТАЙНЕ,ВТАЙНЕ,0
+sgg/B69.pose,de,sgg,0,0,наурыз көже,наурыз көже,0
+sgg/D69.pose,de,sgg,0,0,ВЕЗУНЧИК,ВЕЗУНЧИК,0
+sgg/E69.pose,de,sgg,0,0,ВКУС,ВКУС,0
+sgg/G69.pose,de,sgg,0,0,бант,бант,0
+sgg/H69.pose,de,sgg,0,0,четверг,четверг,0
+sgg/K69.pose,de,sgg,0,0,дорама,дорама,0
+sgg/L69.pose,de,sgg,0,0,ТЮРЬМА,ТЮРЬМА,0
+sgg/M69.pose,de,sgg,0,0,МЫСЛЬ,МЫСЛЬ,0
+sgg/N69.pose,de,sgg,0,0,договориться,договориться,0
+sgg/P69.pose,de,sgg,0,0,швея,швея,0
+sgg/A70.pose,de,sgg,0,0,ВЧЕТВЕРОМ,ВЧЕТВЕРОМ,0
+sgg/B70.pose,de,sgg,0,0,көрісу,көрісу,0
+sgg/D70.pose,de,sgg,0,0,ВЕЛИКОЛЕПНО,ВЕЛИКОЛЕПНО,0
+sgg/E70.pose,de,sgg,0,0,ВКУСИТЬ,ВКУСИТЬ,0
+sgg/G70.pose,de,sgg,0,0,НОЧНУШКА,НОЧНУШКА,0
+sgg/H70.pose,de,sgg,0,0,пятница,пятница,0
+sgg/K70.pose,de,sgg,0,0,дуэт,дуэт,0
+sgg/L70.pose,de,sgg,0,0,все включено,все включено,0
+sgg/M70.pose,de,sgg,0,0,придумывать,придумывать,0
+sgg/N70.pose,de,sgg,0,0,задержать,задержать,0
+sgg/P70.pose,de,sgg,0,0,шофер,шофер,0
+sgg/A71.pose,de,sgg,0,0,БЫЛО,БЫЛО,0
+sgg/B71.pose,de,sgg,0,0,шаңырақ,шаңырақ,0
+sgg/D71.pose,de,sgg,0,0,ВЕЛИЧАНИЕ,ВЕЛИЧАНИЕ,0
+sgg/E71.pose,de,sgg,0,0,ГЛОТАТЬ,ГЛОТАТЬ,0
+sgg/G71.pose,de,sgg,0,0,КУПАЛЬНИК,КУПАЛЬНИК,0
+sgg/H71.pose,de,sgg,0,0,суббота,суббота,0
+sgg/K71.pose,de,sgg,0,0,голливуд,голливуд,0
+sgg/L71.pose,de,sgg,0,0,репетиция спектакля,репетиция спектакля,0
+sgg/M71.pose,de,sgg,0,0,учиться,учиться,0
+sgg/N71.pose,de,sgg,0,0,национальная валюта,национальная валюта,0
+sgg/P71.pose,de,sgg,0,0,экономика,экономика,0
+sgg/A72.pose,de,sgg,0,0,БЫТЬ,БЫТЬ,0
+sgg/B72.pose,de,sgg,0,0,кереге,кереге,0
+sgg/D72.pose,de,sgg,0,0,ВИНИТЬ,ВИНИТЬ,0
+sgg/E72.pose,de,sgg,0,0,БЕЗАЛКОГОЛЬНЫЙ,БЕЗАЛКОГОЛЬНЫЙ,0
+sgg/G72.pose,de,sgg,0,0,КОЛГОТКИ,КОЛГОТКИ,0
+sgg/H72.pose,de,sgg,0,0,воскресенье,воскресенье,0
+sgg/K72.pose,de,sgg,0,0,кастинг,кастинг,0
+sgg/L72.pose,de,sgg,0,0,ДЕТСКИЙ САД,ДЕТСКИЙ САД,0
+sgg/M72.pose,de,sgg,0,0,ФАКТ,ФАКТ,0
+sgg/N72.pose,de,sgg,0,0,төре,төре,0
+sgg/P72.pose,de,sgg,0,0,экономия,экономия,0
+sgg/A73.pose,de,sgg,0,0,здороваться,здороваться,0
+sgg/B73.pose,de,sgg,0,0,уық,уық,0
+sgg/D73.pose,de,sgg,0,0,ВЛАСТНЫЙ,ВЛАСТНЫЙ,0
+sgg/E73.pose,de,sgg,0,0,закиснуть,закиснуть,0
+sgg/G73.pose,de,sgg,0,0,ТОНКИЙ,ТОНКИЙ,0
+sgg/H73.pose,de,sgg,0,0,весна,весна,0
+sgg/K73.pose,de,sgg,0,0,ведущий,ведущий,0
+sgg/L73.pose,de,sgg,0,0,багаж,багаж,0
+sgg/M73.pose,de,sgg,0,0,важный,важный,0
+sgg/N73.pose,de,sgg,0,0,би,би,0
+sgg/P73.pose,de,sgg,0,0,курс тенге,курс тенге,0
+sgg/A74.pose,de,sgg,0,0,FACEBOOK,FACEBOOK,0
+sgg/B74.pose,de,sgg,0,0,юрта,юрта,0
+sgg/D74.pose,de,sgg,0,0,ВЛИЯТЕЛЬНЫЙ,ВЛИЯТЕЛЬНЫЙ,0
+sgg/E74.pose,de,sgg,0,0,закипеть,закипеть,0
+sgg/G74.pose,de,sgg,0,0,НОСОВОЙ ПЛАТОК,НОСОВОЙ ПЛАТОК,0
+sgg/H74.pose,de,sgg,0,0,лето,лето,0
+sgg/K74.pose,de,sgg,0,0,премия оскар,премия оскар,0
+sgg/L74.pose,de,sgg,0,0,АТЕЛЬЕ,АТЕЛЬЕ,0
+sgg/M74.pose,de,sgg,0,0,рисовать,рисовать,0
+sgg/N74.pose,de,sgg,0,0,хан,хан,0
+sgg/P74.pose,de,sgg,0,0,ФЕЙСБУК,ФЕЙСБУК,0
+sgg/B75.pose,de,sgg,0,0,вдовец,вдовец,0
+sgg/D75.pose,de,sgg,0,0,возможность,возможность,0
+sgg/E75.pose,de,sgg,0,0,БАРАНИНА,БАРАНИНА,0
+sgg/G75.pose,de,sgg,0,0,ШОРТЫ,ШОРТЫ,0
+sgg/K75.pose,de,sgg,0,0,развлечение,развлечение,0
+sgg/L75.pose,de,sgg,0,0,проживать в отеле,проживать в отеле,0
+sgg/M75.pose,de,sgg,0,0,обучить,обучить,0
+sgg/N75.pose,de,sgg,0,0,уәзір,уәзір,0
+sgg/P75.pose,de,sgg,0,0,ЛЮБИМЫЙ АВТОР,ЛЮБИМЫЙ АВТОР,0
+sgg/B76.pose,de,sgg,0,0,верный,верный,0
+sgg/D76.pose,de,sgg,0,0,ВОЗМУЩЕНИЕ,ВОЗМУЩЕНИЕ,0
+sgg/E76.pose,de,sgg,0,0,зерно,зерно,0
+sgg/G76.pose,de,sgg,0,0,пиджак,пиджак,0
+sgg/K76.pose,de,sgg,0,0,спектакль,спектакль,0
+sgg/L76.pose,de,sgg,0,0,торговый центр,торговый центр,0
+sgg/M76.pose,de,sgg,0,0,внимательный ко мне,внимательный ко мне,0
+sgg/N76.pose,de,sgg,0,0,БУНТ,БУНТ,0
+sgg/P76.pose,de,sgg,0,0,НАГРАДА,НАГРАДА,0
+sgg/B77.pose,de,sgg,0,0,волос,волос,0
+sgg/D77.pose,de,sgg,0,0,ВОСТОРГ,ВОСТОРГ,0
+sgg/E77.pose,de,sgg,0,0,кипяток,кипяток,0
+sgg/G77.pose,de,sgg,0,0,кошелек,кошелек,0
+sgg/K77.pose,de,sgg,0,0,рок музыка,рок музыка,0
+sgg/L77.pose,de,sgg,0,0,зачисление,зачисление,0
+sgg/M77.pose,de,sgg,0,0,внимательно,внимательно,0
+sgg/N77.pose,de,sgg,0,0,ЗАГС,ЗАГС,0
+sgg/P77.pose,de,sgg,0,0,VKONTAKTE,VKONTAKTE,0
+sgg/B78.pose,de,sgg,0,0,ВОСЬМИДЕСЯТИЛЕТНИЙ,ВОСЬМИДЕСЯТИЛЕТНИЙ,0
+sgg/D78.pose,de,sgg,0,0,ВЫГНАТЬ,ВЫГНАТЬ,0
+sgg/E78.pose,de,sgg,0,0,канистра,канистра,0
+sgg/G78.pose,de,sgg,0,0,сәукеле,сәукеле,0
+sgg/K78.pose,de,sgg,0,0,романтический фильм,романтический фильм,0
+sgg/L78.pose,de,sgg,0,0,вверх,вверх,0
+sgg/M78.pose,de,sgg,0,0,МНЕНИЕ,МНЕНИЕ,0
+sgg/N78.pose,de,sgg,0,0,закон,закон,0
+sgg/P78.pose,de,sgg,0,0,ПОИСК ОШИБКИ,ПОИСК ОШИБКИ,0
+sgg/X78.pose,de,sgg,0,0,,,0
+sgg/B79.pose,de,sgg,0,0,ВОСЬМИМЕСЯЧНЫЙ,ВОСЬМИМЕСЯЧНЫЙ,0
+sgg/D79.pose,de,sgg,0,0,ВСЕВЛАСТИЕ,ВСЕВЛАСТИЕ,0
+sgg/E79.pose,de,sgg,0,0,КОНСЕРВЫ,КОНСЕРВЫ,0
+sgg/G79.pose,de,sgg,0,0,шапан,шапан,0
+sgg/K79.pose,de,sgg,0,0,задний фон,задний фон,0
+sgg/L79.pose,de,sgg,0,0,ввод/вводить,ввод/вводить,0
+sgg/M79.pose,de,sgg,0,0,ругать/ ругаться,ругать/ ругаться,0
+sgg/N79.pose,de,sgg,0,0,законодательство,законодательство,0
+sgg/P79.pose,de,sgg,0,0,НАЖИМАТЬ НА КНОПКУ,НАЖИМАТЬ НА КНОПКУ,0
+sgg/B80.pose,de,sgg,0,0,ГИГИЕНИЧНЫЙ,ГИГИЕНИЧНЫЙ,0
+sgg/D80.pose,de,sgg,0,0,вред,вред,0
+sgg/E80.pose,de,sgg,0,0,ТОЛКУШКА,ТОЛКУШКА,0
+sgg/G80.pose,de,sgg,0,0,қамзол,қамзол,0
+sgg/K80.pose,de,sgg,0,0,3Д фильм,3Д фильм,0
+sgg/L80.pose,de,sgg,0,0,ВЕРТОЛЁТ,ВЕРТОЛЁТ,0
+sgg/M80.pose,de,sgg,0,0,сказать,сказать,0
+sgg/N80.pose,de,sgg,0,0,залог,залог,0
+sgg/P80.pose,de,sgg,0,0,ЛОГОТИП,ЛОГОТИП,0
+sgg/B81.pose,de,sgg,0,0,БОЛТОВНЯ,БОЛТОВНЯ,0
+sgg/D81.pose,de,sgg,0,0,БЫСТРОТА,БЫСТРОТА,0
+sgg/G81.pose,de,sgg,0,0,тақия,тақия,0
+sgg/K81.pose,de,sgg,0,0,анекдот,анекдот,0
+sgg/L81.pose,de,sgg,0,0,ВЕРТОЛЁТЧИК,ВЕРТОЛЁТЧИК,0
+sgg/M81.pose,de,sgg,0,0,акцент,акцент,0
+sgg/N81.pose,de,sgg,0,0,залогодатель,залогодатель,0
+sgg/P81.pose,de,sgg,0,0,АРМИЯ,АРМИЯ,0
+sgg/B82.pose,de,sgg,0,0,БУДДИСТ,БУДДИСТ,0
+sgg/D82.pose,de,sgg,0,0,зависимость,зависимость,0
+sgg/G82.pose,de,sgg,0,0,қамшы,қамшы,0
+sgg/K82.pose,de,sgg,0,0,билет в кино,билет в кино,0
+sgg/L82.pose,de,sgg,0,0,BEPXOM,BEPXOM,0
+sgg/M82.pose,de,sgg,0,0,УМНЫЙ,УМНЫЙ,0
+sgg/N82.pose,de,sgg,0,0,Жезказган,Жезказган,0
+sgg/P82.pose,de,sgg,0,0,ПЛОТНИК,ПЛОТНИК,0
+sgg/B83.pose,de,sgg,0,0,БРАКОСОЧЕТАНИЕ,БРАКОСОЧЕТАНИЕ,0
+sgg/D83.pose,de,sgg,0,0,истерия,истерия,0
+sgg/G83.pose,de,sgg,0,0,кимешек,кимешек,0
+sgg/K83.pose,de,sgg,0,0,комедия,комедия,0
+sgg/L83.pose,de,sgg,0,0,ВЗЛОМЩИК,ВЗЛОМЩИК,0
+sgg/M83.pose,de,sgg,0,0,рассказывать/повествовать,рассказывать/повествовать,0
+sgg/N83.pose,de,sgg,0,0,ПОСТРАДАЛИ,ПОСТРАДАЛИ,0
+sgg/P83.pose,de,sgg,0,0,ПЯТЬ ТЕНГЕ,ПЯТЬ ТЕНГЕ,0
+sgg/B84.pose,de,sgg,0,0,ГОЛОВА,ГОЛОВА,0
+sgg/D84.pose,de,sgg,0,0,имитировать,имитировать,0
+sgg/G84.pose,de,sgg,0,0,жаулық,жаулық,0
+sgg/K84.pose,de,sgg,0,0,домбра,домбра,0
+sgg/L84.pose,de,sgg,0,0,ВНИЗ,ВНИЗ,0
+sgg/M84.pose,de,sgg,0,0,выяснять/определить,выяснять/определить,0
+sgg/P84.pose,de,sgg,0,0,военный человек,военный человек,0
+sgg/B85.pose,de,sgg,0,0,РУКА,РУКА,0
+sgg/D85.pose,de,sgg,0,0,контроль,контроль,0
+sgg/G85.pose,de,sgg,0,0,алқа,алқа,0
+sgg/K85.pose,de,sgg,0,0,фортепиано,фортепиано,0
+sgg/L85.pose,de,sgg,0,0,ВОДИТЕЛЬ АВТО,ВОДИТЕЛЬ АВТО,0
+sgg/M85.pose,de,sgg,0,0,говорить,говорить,0
+sgg/P85.pose,de,sgg,0,0,один килограмм,один килограмм,0
+sgg/B86.pose,de,sgg,0,0,ТЕЛО,ТЕЛО,0
+sgg/D86.pose,de,sgg,0,0,колебаться,колебаться,0
+sgg/G86.pose,de,sgg,0,0,білезік,білезік,0
+sgg/K86.pose,de,sgg,0,0,гармошка,гармошка,0
+sgg/L86.pose,de,sgg,0,0,ВОДОПРОВОД,ВОДОПРОВОД,0
+sgg/M86.pose,de,sgg,0,0,диплом,диплом,0
+sgg/P86.pose,de,sgg,0,0,одна штука,одна штука,0
+sgg/B87.pose,de,sgg,0,0,ПАЛЕЦ,ПАЛЕЦ,0
+sgg/D87.pose,de,sgg,0,0,УБИТЬ,УБИТЬ,0
+sgg/G87.pose,de,sgg,0,0,бандаж,бандаж,0
+sgg/K87.pose,de,sgg,0,0,домашний кинотеатр,домашний кинотеатр,0
+sgg/L87.pose,de,sgg,0,0,ВОЗОБНОВИТЬ,ВОЗОБНОВИТЬ,0
+sgg/M87.pose,de,sgg,0,0,допуск к экзамену,допуск к экзамену,0
+sgg/P87.pose,de,sgg,0,0,один тенге,один тенге,0
+sgg/B88.pose,de,sgg,0,0,НОГТИ,НОГТИ,0
+sgg/D88.pose,de,sgg,0,0,СЛУЧАЙНО,СЛУЧАЙНО,0
+sgg/K88.pose,de,sgg,0,0,киноляп,киноляп,0
+sgg/L88.pose,de,sgg,0,0,вокзал,вокзал,0
+sgg/M88.pose,de,sgg,0,0,ошибаться,ошибаться,0
+sgg/P88.pose,de,sgg,0,0,тысяча тенге,тысяча тенге,0
+sgg/B89.pose,de,sgg,0,0,заработок,заработок,0
+sgg/D89.pose,de,sgg,0,0,ВЕРНОСТЬ,ВЕРНОСТЬ,0
+sgg/K89.pose,de,sgg,0,0,скрипка,скрипка,0
+sgg/L89.pose,de,sgg,0,0,ВОР,ВОР,0
+sgg/M89.pose,de,sgg,0,0,отказаться,отказаться,0
+sgg/P89.pose,de,sgg,0,0,три тенге,три тенге,0
+sgg/B90.pose,de,sgg,0,0,инвалидность,инвалидность,0
+sgg/D90.pose,de,sgg,0,0,ВОСХИЩАТЬСЯ,ВОСХИЩАТЬСЯ,0
+sgg/K90.pose,de,sgg,0,0,квн,квн,0
+sgg/L90.pose,de,sgg,0,0,ВОРОВАТЬ,ВОРОВАТЬ,0
+sgg/M90.pose,de,sgg,0,0,напомнить,напомнить,0
+sgg/P90.pose,de,sgg,0,0,три тысячи тенге,три тысячи тенге,0
+sgg/B91.pose,de,sgg,0,0,зрячий,зрячий,0
+sgg/D91.pose,de,sgg,0,0,шантажировать,шантажировать,0
+sgg/K91.pose,de,sgg,0,0,поп музыка,поп музыка,0
+sgg/L91.pose,de,sgg,0,0,ВАГОН,ВАГОН,0
+sgg/M91.pose,de,sgg,0,0,профильные предметы,профильные предметы,0
+sgg/P91.pose,de,sgg,0,0,два тенге,два тенге,0
+sgg/B92.pose,de,sgg,0,0,КОМПЛИМЕНТ,КОМПЛИМЕНТ,0
+sgg/K92.pose,de,sgg,0,0,йога,йога,0
+sgg/L92.pose,de,sgg,0,0,БУЛЬДОЗЕР,БУЛЬДОЗЕР,0
+sgg/M92.pose,de,sgg,0,0,тупой,тупой,0
+sgg/P92.pose,de,sgg,0,0,астрономия,астрономия,0
+sgg/B93.pose,de,sgg,0,0,конфиденциальный,конфиденциальный,0
+sgg/K93.pose,de,sgg,0,0,блокбастер,блокбастер,0
+sgg/L93.pose,de,sgg,0,0,БЕЗВОЗВРАТНЫЙ,БЕЗВОЗВРАТНЫЙ,0
+sgg/M93.pose,de,sgg,0,0,учебная программа,учебная программа,0
+sgg/P93.pose,de,sgg,0,0,пограничник,пограничник,0
+sgg/B94.pose,de,sgg,0,0,священная книга,священная книга,0
+sgg/K94.pose,de,sgg,0,0,танец,танец,0
+sgg/L94.pose,de,sgg,0,0,бесплатно,бесплатно,0
+sgg/M94.pose,de,sgg,0,0,умножение,умножение,0
+sgg/P94.pose,de,sgg,0,0,общественная работа,общественная работа,0
+sgg/B95.pose,de,sgg,0,0,косоглазый,косоглазый,0
+sgg/K95.pose,de,sgg,0,0,джаз,джаз,0
+sgg/L95.pose,de,sgg,0,0,церковь,церковь,0
+sgg/M95.pose,de,sgg,0,0,выпускной танец,выпускной танец,0
+sgg/P95.pose,de,sgg,0,0,юрист,юрист,0
+sgg/B96.pose,de,sgg,0,0,ХУЛИГАН,ХУЛИГАН,0
+sgg/K96.pose,de,sgg,0,0,главный герой,главный герой,0
+sgg/M96.pose,de,sgg,0,0,деление,деление,0
+sgg/P96.pose,de,sgg,0,0,ведущий человек,ведущий человек,0
+sgg/K97.pose,de,sgg,0,0,звездные войны,звездные войны,0
+sgg/M97.pose,de,sgg,0,0,дипломная работа,дипломная работа,0
+sgg/P97.pose,de,sgg,0,0,МИЛЛИОН,МИЛЛИОН,0
+sgg/K98.pose,de,sgg,0,0,кинотеатр,кинотеатр,0
+sgg/M98.pose,de,sgg,0,0,результаты экзамена,результаты экзамена,0
+sgg/P98.pose,de,sgg,0,0,НОЛЬ,НОЛЬ,0
+sgg/K99.pose,de,sgg,0,0,гитара,гитара,0
+sgg/M99.pose,de,sgg,0,0,талант,талант,0
+sgg/P99.pose,de,sgg,0,0,МИЛЛИАРД,МИЛЛИАРД,0
+sgg/K100.pose,de,sgg,0,0,тоғыз құмалақ,тоғыз құмалақ,0
+sgg/M100.pose,de,sgg,0,0,сдать,сдать,0
+sgg/P100.pose,de,sgg,0,0,пакет услуг,пакет услуг,0
+sgg/K101.pose,de,sgg,0,0,терме,терме,0
+sgg/M101.pose,de,sgg,0,0,объяснять,объяснять,0
+sgg/P101.pose,de,sgg,0,0,прокурор,прокурор,0
+sgg/K102.pose,de,sgg,0,0,күй,күй,0
+sgg/M102.pose,de,sgg,0,0,комиссия,комиссия,0
+sgg/P102.pose,de,sgg,0,0,взял кредит,взял кредит,0
+sgg/K103.pose,de,sgg,0,0,домбыра,домбыра,0
+sgg/M103.pose,de,sgg,0,0,ректор,ректор,0
+sgg/P103.pose,de,sgg,0,0,банковская карта,банковская карта,0
+sgg/K104.pose,de,sgg,0,0,қобыз,қобыз,0
+sgg/M104.pose,de,sgg,0,0,школьный аттестат,школьный аттестат,0
+sgg/P104.pose,de,sgg,0,0,чек,чек,0
+sgg/K105.pose,de,sgg,0,0,сазсырнай,сазсырнай,0
+sgg/M105.pose,de,sgg,0,0,ДОКАЗАТЕЛЬСТВО,ДОКАЗАТЕЛЬСТВО,0
+sgg/P105.pose,de,sgg,0,0,доллар,доллар,0
+sgg/K106.pose,de,sgg,0,0,айтыс,айтыс,0
+sgg/M106.pose,de,sgg,0,0,учить,учить,0
+sgg/P106.pose,de,sgg,0,0,взятка,взятка,0
+sgg/K107.pose,de,sgg,0,0,көкпар,көкпар,0
+sgg/M107.pose,de,sgg,0,0,экзамен,экзамен,0
+sgg/P107.pose,de,sgg,0,0,тенге,тенге,0
+sgg/K108.pose,de,sgg,0,0,қыз қуу,қыз қуу,0
+sgg/M108.pose,de,sgg,0,0,задание по математике,задание по математике,0
+sgg/P108.pose,de,sgg,0,0,ЦЕНА,ЦЕНА,0
+sgg/K109.pose,de,sgg,0,0,теңге алу жарысы,теңге алу жарысы,0
+sgg/M109.pose,de,sgg,0,0,заочная форма,заочная форма,0
+sgg/P109.pose,de,sgg,0,0,маркетинг,маркетинг,0
+sgg/K110.pose,de,sgg,0,0,вампир,вампир,0
+sgg/M110.pose,de,sgg,0,0,итоговый аттестат,итоговый аттестат,0
+sgg/P110.pose,de,sgg,0,0,актер,актер,0
+sgg/K111.pose,de,sgg,0,0,варвар,варвар,0
+sgg/M111.pose,de,sgg,0,0,повторять,повторять,0
+sgg/P111.pose,de,sgg,0,0,дирижер,дирижер,0
+sgg/K112.pose,de,sgg,0,0,ВЕЛИКАН,ВЕЛИКАН,0
+sgg/M112.pose,de,sgg,0,0,препятствие,препятствие,0
+sgg/P112.pose,de,sgg,0,0,украсть,украсть,0
+sgg/K113.pose,de,sgg,0,0,ВЕЛОГОНКИ,ВЕЛОГОНКИ,0
+sgg/M113.pose,de,sgg,0,0,вспоминать,вспоминать,0
+sgg/P113.pose,de,sgg,0,0,похищение,похищение,0
+sgg/K114.pose,de,sgg,0,0,ВЕЛОСИПЕДИСТ,ВЕЛОСИПЕДИСТ,0
+sgg/M114.pose,de,sgg,0,0,балл,балл,0
+sgg/P114.pose,de,sgg,0,0,арестовать,арестовать,0
+sgg/K115.pose,de,sgg,0,0,вокал,вокал,0
+sgg/M115.pose,de,sgg,0,0,презентация дипломной работы,презентация дипломной работы,0
+sgg/P115.pose,de,sgg,0,0,адвокат,адвокат,0
+sgg/K116.pose,de,sgg,0,0,ВЫШИВКА,ВЫШИВКА,0
+sgg/M116.pose,de,sgg,0,0,выпускник школы,выпускник школы,0
+sgg/P116.pose,de,sgg,0,0,остерегаться,остерегаться,0
+sgg/K117.pose,de,sgg,0,0,ВЯЗАТЬ,ВЯЗАТЬ,0
+sgg/M117.pose,de,sgg,0,0,каферда русского языка,каферда русского языка,0
+sgg/P117.pose,de,sgg,0,0,БАНКРОТСТВО,БАНКРОТСТВО,0
+sgg/K118.pose,de,sgg,0,0,БРОСОК,БРОСОК,0
+sgg/M118.pose,de,sgg,0,0,ЕНТ,ЕНТ,0
+sgg/P118.pose,de,sgg,0,0,вахта,вахта,0
+sgg/K119.pose,de,sgg,0,0,БРОНЗА,БРОНЗА,0
+sgg/M119.pose,de,sgg,0,0,справка,справка,0
+sgg/P119.pose,de,sgg,0,0,ВОИН,ВОИН,0
+sgg/K120.pose,de,sgg,0,0,БОСИКОМ,БОСИКОМ,0
+sgg/M120.pose,de,sgg,0,0,раздевалка,раздевалка,0
+sgg/P120.pose,de,sgg,0,0,ГАДАЛКА,ГАДАЛКА,0
+sgg/K121.pose,de,sgg,0,0,БОЛЕЛЬЩИК,БОЛЕЛЬЩИК,0
+sgg/M121.pose,de,sgg,0,0,пересдача,пересдача,0
+sgg/P121.pose,de,sgg,0,0,ГАЗЕТА,ГАЗЕТА,0
+sgg/K122.pose,de,sgg,0,0,зарядка,зарядка,0
+sgg/M122.pose,de,sgg,0,0,ВЕРТИКАЛЬ,ВЕРТИКАЛЬ,0
+sgg/P122.pose,de,sgg,0,0,ГАИШНИК,ГАИШНИК,0
+sgg/K123.pose,de,sgg,0,0,караван,караван,0
+sgg/M123.pose,de,sgg,0,0,ВКЛАД,ВКЛАД,0
+sgg/P123.pose,de,sgg,0,0,АКУШЕРКА,АКУШЕРКА,0
+sgg/K124.pose,de,sgg,0,0,игорный,игорный,0
+sgg/M124.pose,de,sgg,0,0,ВОСЬМИКЛАССНИК,ВОСЬМИКЛАССНИК,0
+sgg/P124.pose,de,sgg,0,0,БАНДИТ,БАНДИТ,0
+sgg/K125.pose,de,sgg,0,0,клавиша,клавиша,0
+sgg/M125.pose,de,sgg,0,0,ВОСЬМИЛЕТИЕ,ВОСЬМИЛЕТИЕ,0
+sgg/P125.pose,de,sgg,0,0,ВАКАНСИЯ,ВАКАНСИЯ,0
+sgg/K126.pose,de,sgg,0,0,комикс,комикс,0
+sgg/M126.pose,de,sgg,0,0,ВОСЬМИЧАСОВОЙ,ВОСЬМИЧАСОВОЙ,0
+sgg/P126.pose,de,sgg,0,0,БРOKEP,БРOKEP,0
+sgg/M127.pose,de,sgg,0,0,ГИМНАЗИЯ,ГИМНАЗИЯ,0
+sgg/P127.pose,de,sgg,0,0,БЕЗРАБОТНЫЙ,БЕЗРАБОТНЫЙ,0
+sgg/M128.pose,de,sgg,0,0,ГЕНИЙ,ГЕНИЙ,0
+sgg/P128.pose,de,sgg,0,0,карьера,карьера,0
+sgg/M129.pose,de,sgg,0,0,ВЫЧИСЛИТЬ,ВЫЧИСЛИТЬ,0
+sgg/P129.pose,de,sgg,0,0,исследование,исследование,0
+sgg/M130.pose,de,sgg,0,0,БЕЗДАРНОСТЬ,БЕЗДАРНОСТЬ,0
+sgg/P130.pose,de,sgg,0,0,компания,компания,0
+sgg/M131.pose,de,sgg,0,0,калькулятор,калькулятор,0
+sgg/P131.pose,de,sgg,0,0,кондуктор,кондуктор,0
+sgg/M132.pose,de,sgg,0,0,исключение,исключение,0
+sgg/P132.pose,de,sgg,0,0,контреллор,контреллор,0
+sgg/M133.pose,de,sgg,0,0,издательство,издательство,0
+sgg/P133.pose,de,sgg,0,0,командировка,командировка,0
+sgg/M134.pose,de,sgg,0,0,СЛУШАТЬ,СЛУШАТЬ,0
+sgg/P134.pose,de,sgg,0,0,надо,надо,0
