@@ -1,0 +1,5 @@
+pose_format
+git+https://github.com/ZurichNLP/spoken-to-signed-translation.git
+opencv-python
+Pillow
+IPython
