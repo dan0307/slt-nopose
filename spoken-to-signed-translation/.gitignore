@@ -2,3 +2,4 @@
 build/
 spoken_to_signed.egg-info/
 .vercel
+assets/dummy_lexicon/sgg/

@@ -4,7 +4,7 @@ from run import *
 
 app = Flask(__name__)
 
-@app.route('/text_to_gif')
+@app.route('/')
 def text_to_gif():
     text = request.args.get('text')
     gif = run_code(text)
