@@ -1,0 +1,11 @@
+runtime: python311
+
+env: flex
+
+basic_scaling:
+  max_instances: 11
+  idle_timeout: 10m
+
+
+
+
