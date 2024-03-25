@@ -1,8 +1,5 @@
-runtime: python
+runtime: python311
 
-runtime_config:
-    operating_system: "ubuntu23"
-    runtime_version: "3.11"
     
 
 
