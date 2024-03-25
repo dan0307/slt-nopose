@@ -40,5 +40,5 @@ def run_code(text):
     text_to_pose(text)
     filename = "result.pose" 
     gif = pose_to_gif(filename) # the resulting output
-    #delete_file(filename) # delete pose file
+    delete_file(filename) # delete pose file
     return gif
