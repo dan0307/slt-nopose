@@ -2,6 +2,8 @@ pose_format
 git+https://github.com/ZurichNLP/spoken-to-signed-translation.git
 functions-framework==3.*
 opencv-python
+uwsgi
+gunicorn
 Pillow
 pandas
 requests
