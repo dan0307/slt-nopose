@@ -1,14 +1,26 @@
-# syntax=docker/dockerfile:1
+# Use an official Python runtime as the base image
+FROM python:3-alpine3.11
 
-FROM python:3.8-slim-buster
+# Install git and other necessary build dependencies
+RUN apk update && apk add --no-cache git build-base cmake linux-headers
 
-WORKDIR /python-docker
+# Set the working directory in the container
+WORKDIR /app
 
-COPY requirements.txt requirements.txt
+# Copy the current directory contents into the container at /app
+COPY . /app
 
-RUN pip3 install -r requirements.txt
+# Upgrade pip to the latest version
+RUN pip install --no-cache-dir --upgrade pip
 
-COPY . .
+# Install any needed dependencies specified in requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"
+# Make port 8000 available to the world outside this container
+EXPOSE 8000
+
+ENV PIP_DEFAULT_TIMEOUT=500
+
+# Run app.py when the container launches
+CMD python ./main.py
 
