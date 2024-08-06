@@ -14,10 +14,20 @@ def delete_file(filename):
         os.remove(filename)
         print("pose file deleted.")
 
+def list_files(directory='.'):
+    for root, dirs, files in os.walk(directory):
+        for name in files:
+            print(os.path.join(root, name))
+
 def text_to_pose(text):
     # DCommand to generate pose file from sequence of words
     command = "text_to_gloss_to_pose   --text '" + text + "'   --glosser 'simple'   --lexicon 'assets/dummy_lexicon'   --spoken-language 'de'   --signed-language 'sgg'   --pose 'result.pose'"    
     subprocess.run(command, shell=True) # Execute the command to generate the file
+
+    # List all files in the current directory
+    print("Files in the current directory:")
+    list_files()
+    
     if file_exists("result.pose"):
         print("result.pose has been generated. Generating result.gif...")
 
